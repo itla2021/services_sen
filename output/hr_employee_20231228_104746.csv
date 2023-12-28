@@ -1,0 +1,2 @@
+ID,code,name,active,job_position_id,job_id,company_id,employee_type,partner_id,project_id,project_policy_id,employee_template_id,resource_id,joining_date,state,labor_category_id,company_department_id,department_id,customer_emp_code,birthday,mobile,payslip_email,identification_id,employee_template_code
+74015,P00923-01,Trương Thị Thảo Ngân,True,21,777,1,office,18038,1851,11,47758,416,2017-01-16,confirm,3,11,125,LES030,1992-10-13,0792744248,Truongngan92@gmail.com,25160757,P00923
