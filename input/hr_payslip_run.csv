@@ -1,0 +1,1053 @@
+name,state,date_start,date_end,project_id,department_id,structure_id,hrbp_user_id,approval_type_id,payslip_publish_option,division_department_id,company_department_id,project_policy_id,year_of_tax_finalization,income_type,payslip_month,payslip_year
+Heineken HCM 12.2021,approved,2021-11-16,2021-12-15,1872,97.0,212.0,222.0,,manual,13.0,,,,monthly_salary,12,2021
+Heineken HCM (add),approved,2021-12-01,2021-12-31,1872,97.0,212.0,222.0,,manual,13.0,,,,monthly_salary,12,2021
+BẢNG LƯƠNG GREIF THÁNG 01.2022,approved,2022-01-01,2022-01-31,2225,125.0,43.0,243.0,,manual,14.0,,,,monthly_salary,1,2022
+Bảng lương tháng 01/2022 MAERSK DC 5,approved,2022-01-01,2022-01-31,2184,126.0,57.0,9311.0,,manual,13.0,,,,monthly_salary,1,2022
+06.2022_BANG LUONG MAERSK DC2,approved,2022-05-21,2022-06-20,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,6,2022
+BẢNG LƯƠNG FIRST SOLAR 01.2022,approved,2022-01-01,2022-01-31,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,1,2022
+06.2022_BANG LUONG MAERSK DC3,approved,2022-05-21,2022-06-20,1971,126.0,55.0,197.0,,manual,13.0,,,,monthly_salary,6,2022
+05.2022 -  SCHENKER LOGISTICS NORTH,approved,2022-05-01,2022-05-31,2286,103.0,266.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+06.2022 - SCHENKER LOGISTICS NORTH,approved,2022-06-01,2022-06-30,2286,103.0,266.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022_BANG LUONG MAERSK DC1.1,approved,2022-05-21,2022-06-20,2280,126.0,265.0,9311.0,,manual,13.0,,,,monthly_salary,6,2022
+Import lương bổ sung Payroll ZUELLIG PHARMA,approved,2022-06-01,2022-06-30,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,6,2022
+SAPHARCO. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,749,126.0,238.0,8455.0,,manual,13.0,,,,monthly_salary,2,2022
+SAPHARCO - BANG LUONG THANG 07.2022,approved,2022-07-01,2022-07-31,749,126.0,238.0,8455.0,,manual,13.0,,,,monthly_salary,7,2022
+BẢNG LƯƠNG DKSH VN THÁNG 01.2022,approved,2021-12-23,2022-01-22,694,126.0,22.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+BẢNG LƯƠNG DKSH HECA THÁNG 01.2022,approved,2021-12-23,2022-01-22,696,126.0,23.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+BANG LƯƠNG MAERSK SDS 01 2022,approved,2021-12-26,2022-01-25,2198,126.0,12.0,530.0,,manual,13.0,,,,monthly_salary,1,2022
+06.2022-COLGATE HCM-PAYROLL,approved,2022-06-01,2022-06-30,713,125.0,10.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+BẢNG LƯƠNG ITOCHU VP THÁNG 01.2022 - NCQ,approved,2022-01-01,2022-01-31,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+BANG LUONG DKSH OFFICER 01 2022,approved,2021-12-23,2022-01-22,2266,126.0,21.0,9558.0,,manual,13.0,,,,monthly_salary,1,2022
+BANG LUONG AKZO HQ_01 2022,approved,2022-01-01,2022-01-31,758,125.0,29.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+BANG LUONG HAILONG_01 2022,approved,2021-12-23,2022-01-22,2235,126.0,25.0,9558.0,,manual,13.0,,,,monthly_salary,1,2022
+BANG LUONG AT TRANSPORT_01 2022,approved,2021-12-23,2022-01-22,2220,126.0,24.0,9558.0,,manual,13.0,,,,monthly_salary,1,2022
+BẢNG LƯƠNG TOPSOLVENT GO DAU THÁNG 01.2022,approved,2021-12-21,2022-01-20,697,126.0,6.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+Aritco. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,759,125.0,241.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+AVERY DENNISON. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+KING JIM. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,722,103.0,258.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+KONGSBERG. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,763,125.0,247.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+THEP NHA BE. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,1976,126.0,196.0,195.0,,manual,13.0,,,,monthly_salary,1,2022
+BV OUTSOURCING. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,686,126.0,59.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+01.2022 - SAPPORO VN,approved,2022-01-01,2022-01-31,787,103.0,263.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+01.2022 - YAMAHA,approved,2022-01-01,2022-01-31,2202,108.0,264.0,229.0,,manual,20.0,,,,monthly_salary,1,2022
+01.2022 - FCV CRM,approved,2022-01-01,2022-01-31,810,103.0,204.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+01.2022 - FCV ARAS,approved,2022-01-01,2022-01-31,814,103.0,203.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+01.2022 - FCV NA CL,approved,2022-01-01,2022-01-31,784,103.0,199.0,229.0,,manual,14.0,,978.0,,monthly_salary,1,2022
+FUJIFILM CTV. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,736,125.0,236.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+NAM GIANG. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+BANG LUONG MAERSK REP_01 2022,approved,2021-12-21,2022-01-20,2187,126.0,18.0,245.0,,manual,13.0,,,,monthly_salary,1,2022
+BANG LUONG AKZO DRIVER_01 2022,approved,2022-01-01,2022-01-31,2134,125.0,28.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+SHISEIDO. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+Nam Giang. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+Bảng lương tháng 01/2022 DC 1,approved,2022-01-01,2022-01-31,740,126.0,53.0,197.0,,manual,13.0,,,,monthly_salary,1,2022
+Bảng lương tháng 01/2022 MAERSK DC 2,approved,2022-01-01,2022-01-31,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,1,2022
+Bảng lương tháng 01/2022 MAERSK DC 3,approved,2022-01-01,2022-01-31,1971,126.0,55.0,197.0,,manual,13.0,,,,monthly_salary,1,2022
+Bảng lương tháng 01/2022 DC 1.1,approved,2022-01-01,2022-01-31,2280,126.0,265.0,9311.0,,manual,13.0,,,,monthly_salary,1,2022
+TUV - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,692,125.0,7.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+02.2022 - CompAsia VN,approved,2022-01-26,2022-02-25,2263,103.0,202.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+ITOCHU POWER - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,734,125.0,48.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+ITOCHU VP - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+VOLCAFE - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-21,2022-02-20,760,125.0,45.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+GREIF - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,2225,125.0,43.0,243.0,,manual,14.0,,,,monthly_salary,2,2022
+TOPSOLVENT HP - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-21,2022-02-20,752,126.0,5.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+02.2022 - SAPPORO VN,approved,2022-02-01,2022-02-28,787,103.0,263.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+06.2022-VOLCAFE-PAYROLL,approved,2022-05-21,2022-06-20,760,125.0,45.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022-ITOCHU VP-PAYROLL,approved,2022-06-01,2022-06-30,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+TOPSOLVENT GD - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-21,2022-02-20,697,126.0,6.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+BANG LUONG MAERSK DC1_02 2022,approved,2022-01-26,2022-02-25,740,126.0,53.0,197.0,,manual,13.0,,,,monthly_salary,2,2022
+RHI HAI DUONG. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,755,126.0,193.0,8455.0,,manual,13.0,,,,monthly_salary,2,2022
+06.2022-ITOCHU POWER-PAYROLL,approved,2022-06-01,2022-06-30,734,125.0,48.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+PPG YUNGCHI - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,676,125.0,260.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+06.2022-PPG YUNG CHI-PAYROLL,approved,2022-06-01,2022-06-30,676,125.0,260.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+SONION HCM. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,685,125.0,255.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+Schenker. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,1831,125.0,251.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+02.2022 - YAMAHA,approved,2022-02-01,2022-02-28,2202,108.0,264.0,229.0,,manual,20.0,,,,monthly_salary,2,2022
+02.2022 - FCV NA ADMIN,approved,2022-02-01,2022-02-28,783,103.0,198.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+02.2022 - FCV NA CL,approved,2022-02-01,2022-02-28,784,103.0,199.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+RHI HA TINH. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,2149,126.0,192.0,195.0,,manual,13.0,,,,monthly_salary,2,2022
+RHI HUNG YEN. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,1962,126.0,194.0,195.0,,manual,13.0,,,,monthly_salary,2,2022
+ROSNEFT. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,708,125.0,250.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+THEP NHA BE. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,1976,126.0,196.0,195.0,,manual,13.0,,,,monthly_salary,2,2022
+KING JIM. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,722,103.0,258.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+KONGSBERG. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,763,125.0,247.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+DKSH VSIP - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-23,2022-02-22,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,2,2022
+MAERSK DC6.1 - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,742,126.0,14.0,245.0,,manual,13.0,,,,monthly_salary,2,2022
+BANG LUONG AKZO POWDER_02 2022,approved,2022-01-26,2022-02-25,703,125.0,41.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+BANG LUONG AKZO NORTH_02 2022,approved,2022-01-26,2022-02-25,735,125.0,38.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+AKZONOBEL DRIVER - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,2134,125.0,28.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+BANG LUONG DKSH OFFICE_02 2022,approved,2022-01-23,2022-02-22,2266,126.0,21.0,9558.0,,manual,13.0,,,,monthly_salary,2,2022
+FujiFilm. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,1963,125.0,235.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+SCHENKER NORTH. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,2241,125.0,253.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+MAERSK DC3 - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-21,2022-02-20,1971,126.0,55.0,197.0,,manual,13.0,,,,monthly_salary,2,2022
+FujiFilm CTV. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,736,125.0,236.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+Schenker Logistics North. bang luong thang 02.2022,approved,2022-02-01,2022-02-28,2286,103.0,266.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+Synagie_Payroll 02.2022,approved,2022-02-01,2022-02-28,2273,97.0,234.0,222.0,,manual,13.0,,,,monthly_salary,2,2022
+Synagie_Bảng lương 01.2022,approved,2022-01-01,2022-01-31,2273,97.0,234.0,222.0,,manual,13.0,,,,monthly_salary,1,2022
+BP Production_Bảng lương 02.2022 (add),approved,2022-02-01,2022-02-28,765,97.0,268.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+UIP NSX_Bảng lương 01.2022,approved,2022-01-01,2022-01-31,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,1,2022
+Bảng lương Tháng 02_GSK CAT LAI,approved,2022-02-01,2022-02-28,2262,97.0,223.0,9141.0,,manual,13.0,,,,monthly_salary,2,2022
+Bảng lương tháng 02/2022_GSK VSIP,approved,2022-02-01,2022-02-28,2245,97.0,224.0,9141.0,,manual,13.0,,,,monthly_salary,2,2022
+BANG LUONG COLGATE_02 2022,approved,2022-02-01,2022-02-28,713,125.0,10.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+UNILEVER 02.2022,approved,2022-01-01,2022-01-31,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,1,2022
+UNILEVER 01.2022,approved,2022-02-01,2022-02-28,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+Shell_Bảng lương 02.2022 add,approved,2022-01-24,2022-02-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+05.2022 - SHISEIDO,approved,2022-05-01,2022-05-31,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+03.2022 - CompAsia VN,approved,2022-02-26,2022-03-25,2263,103.0,202.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+03.2022 - FCV ARAS,approved,2022-02-25,2022-03-24,814,103.0,203.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+06.2022 - BRENNTAG,approved,2022-06-01,2022-06-30,728,125.0,237.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+ACV Hưng Yên_Bảng lương 03.2022,approved,2022-03-01,2022-03-31,2154,97.0,215.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+P&G Bến Cát_Test,approved,2022-03-01,2022-03-31,750,97.0,227.0,222.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+03.2022 - FCV NA ADMIN,approved,2022-03-01,2022-03-31,783,103.0,198.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+03.2022 - FCV NA CL,approved,2022-03-01,2022-03-31,784,103.0,199.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+TOPSOLVENT HAI PHONG - BANG LUONG 06.2022,approved,2022-05-21,2022-06-20,752,126.0,5.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+SYNAGIE_Bảng lương 03.2022,approved,2022-03-01,2022-03-31,2273,97.0,234.0,222.0,,manual,13.0,,,,monthly_salary,3,2022
+UNILEVER_Bảng lương 03.2022,approved,2022-03-01,2022-03-31,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+Unilever_Bảng lương 03.2022 (1.2),approved,2022-03-01,2022-03-31,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+MANULIFE IT. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,2151,125.0,209.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+ARITCO. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,759,125.0,241.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+BP OFFICE. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,682,125.0,242.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+BSI. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,727,125.0,245.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+DKSH VN - BANG LUONG THANG 06.2022,approved,2022-05-23,2022-06-22,694,126.0,22.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+DKSH HECA 02.2023,approved,2023-02-01,2023-02-28,696,126.0,23.0,243.0,7.0,manual,13.0,11.0,1084.0,2023.0,monthly_salary,2,2023
+06/2022 - BROTHER,approved,2022-06-01,2022-06-30,732,125.0,3.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - Fuji Film,approved,2022-06-01,2022-06-30,1963,125.0,235.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+FujiFilm. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,1963,125.0,235.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+GREIF. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,2225,125.0,43.0,243.0,,manual,14.0,,,,monthly_salary,3,2022
+ITOCHU POWER. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,734,125.0,48.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+KING JIM. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,722,103.0,258.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+05.2022 - Fuji Film,approved,2022-05-01,2022-05-31,1963,125.0,235.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+Bảng lương dự án SAPHARCO 09/2023,draft,2023-09-01,2023-09-30,749,126.0,238.0,8455.0,7.0,un_pub,13.0,11.0,1131.0,2023.0,monthly_salary,9,2023
+BANG LUONG AKZO CS_02 2022,approved,2022-01-26,2022-02-25,701,125.0,34.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+MAERSK BAC NINH - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-23,2022-02-22,748,126.0,11.0,245.0,,manual,13.0,,,,monthly_salary,2,2022
+BẢNG LƯƠNG ITOCHU POWER THÁNG 01.2022,approved,2022-01-01,2022-01-31,734,125.0,48.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+06.2022 - KONGSBERG,approved,2022-06-01,2022-06-30,763,125.0,247.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - SONION DRIVER,approved,2022-06-01,2022-06-30,1966,125.0,254.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+05.2022 - Fuji Film (CTV),approved,2022-05-01,2022-05-31,736,125.0,236.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+06.2022 - Fuji Film (CTV),approved,2022-06-01,2022-06-30,736,125.0,236.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - SHISEIDO,approved,2022-06-01,2022-06-30,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - PROMINENT (VNPAL),approved,2022-06-01,2022-06-30,683,125.0,249.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+TOPSOLVENT GO DAU - BANG LUONG THANG 06.2022,approved,2022-05-21,2022-06-20,697,126.0,6.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - COMPASIA,approved,2022-06-01,2022-06-30,2263,103.0,202.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+BV OUTSOURCING - BANG LUONG THANG 06.2022,approved,2022-05-21,2022-06-20,686,126.0,59.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - FCV ARAS,approved,2022-06-01,2022-06-30,814,103.0,203.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+DRAKA 12.2022,approved,2022-12-01,2022-12-31,691,125.0,246.0,197.0,3.0,manual,14.0,11.0,,2023.0,monthly_salary,12,2022
+Bảng lương EISAI tháng 06.2022,approved,2022-06-01,2022-06-30,2300,97.0,274.0,9141.0,,manual,13.0,,,,monthly_salary,6,2022
+Bảng lương GSK CAT LAI tháng 06.2022,approved,2022-06-01,2022-06-30,2262,97.0,223.0,9141.0,,manual,13.0,,,,monthly_salary,6,2022
+Bảng lương Test H2H DRAKA (02),approved,2023-09-01,2023-09-30,691,125.0,246.0,243.0,7.0,manual,14.0,11.0,1005.0,2023.0,monthly_salary,9,2023
+05.2022 - AKZO POWER,approved,2022-04-26,2022-05-25,703,125.0,41.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - AKZO NOBEL NORTH,approved,2022-04-26,2022-05-25,735,125.0,38.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - AKZO NOBEL COATINGS,approved,2022-04-26,2022-05-25,725,125.0,30.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+DRAKA. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,691,125.0,246.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+06.2022 - AKZO NOBEL NORTH,approved,2022-05-26,2022-06-25,735,125.0,38.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+RHI QUANG NGAI 11.2023,draft,2023-10-25,2023-11-24,756,126.0,195.0,8455.0,3.0,manual,13.0,11.0,1159.0,2023.0,monthly_salary,11,2023
+BV SUBCONTRACT - BANG LUONG THANG 06.2022,approved,2022-05-21,2022-06-20,688,126.0,60.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+SAPHARCO - BANG LUONG THANG 03.2022,draft,2022-03-01,2022-03-31,749,126.0,238.0,8455.0,,manual,13.0,,,,monthly_salary,3,2022
+Bảng lương RHI QUANG NGAI tháng 11/2022,approved,2022-10-25,2022-11-24,756,126.0,195.0,8455.0,7.0,manual,13.0,11.0,,,monthly_salary,11,2022
+06.2022 - AKZO NOBEL CS,approved,2022-05-26,2022-06-25,701,125.0,34.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - AKZO NOBEL HQ,approved,2022-06-01,2022-06-30,758,125.0,29.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - AKZO NOBEL DRIVER,approved,2022-06-01,2022-06-30,2134,125.0,28.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+05.2022 - AKZO DRIVER,approved,2022-05-01,2022-05-31,2134,125.0,28.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - AKZO HQ,approved,2022-05-01,2022-05-31,758,125.0,29.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+GSK VSIP_BẢNG LƯƠNG THÁNG 06 2022,approved,2022-06-01,2022-06-30,2245,97.0,224.0,9141.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - BSI,approved,2022-06-01,2022-06-30,727,125.0,245.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - Payroll ZUELLIG PHARMA,approved,2022-06-01,2022-06-30,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - FCV PG ACTIVATION,approved,2022-06-01,2022-06-30,2156,108.0,206.0,229.0,,manual,20.0,,,,monthly_salary,6,2022
+06.2022 - NAM GIANG,approved,2022-06-01,2022-06-30,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+DRAKA. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,691,125.0,246.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+06.2022 - FCV NA CLS,approved,2022-06-01,2022-06-30,784,103.0,199.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+08.2022 - DRAKA,approved,2022-08-01,2022-08-31,691,125.0,246.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+ACV BẮC NINH_BẢNG LƯƠNG 06.2022,approved,2022-06-01,2022-06-30,2155,97.0,213.0,535.0,,manual,13.0,,,2022.0,monthly_salary,6,2022
+06.2022 - ROSNEFT,approved,2022-06-01,2022-06-30,708,125.0,250.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+BẢNG LƯƠNG UIP (NSX) 04.2022,approved,2022-04-01,2022-04-30,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,4,2022
+06.2022 - DRAKA,approved,2022-06-01,2022-06-30,691,125.0,246.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+RHI QN 10.2022,approved,2022-09-25,2022-10-24,756,126.0,195.0,8455.0,,manual,13.0,11.0,,,monthly_salary,10,2022
+06.2022 - FCV NA ADMIN,approved,2022-06-01,2022-06-30,783,103.0,198.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - Payroll -THEP NHA BE,approved,2022-06-01,2022-06-30,1976,126.0,196.0,195.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - Payroll - AT TRANSPORT,approved,2022-06-01,2022-06-30,2220,126.0,24.0,9558.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - Payroll RHI H AI DUONG,approved,2022-06-01,2022-06-30,755,126.0,193.0,8455.0,,manual,13.0,,,,monthly_salary,6,2022
+DRAKA. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,691,125.0,246.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+Bảng lương DRAKA T7/2022,pending,2022-07-01,2022-07-31,691,125.0,246.0,229.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+SYNAGIE_PAYROLL T06.2022,approved,2022-06-01,2022-06-30,2273,97.0,234.0,222.0,,manual,13.0,,,,monthly_salary,6,2022
+UIP TSX_Bảng lương 01.2022,approved,2022-01-01,2022-01-31,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,1,2022
+ZUELLIG PHARMA. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,1,2022
+03.2022 - FCV NA,approved,2022-03-01,2022-03-31,781,103.0,200.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+Bảng lương FIRST SOLAR 05.2022,approved,2022-05-01,2022-05-31,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,5,2022
+06.2022,approved,2022-06-01,2022-06-30,682,125.0,242.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+BẢNG LƯƠNG UIP (TSX) 05.2022,approved,2022-05-01,2022-05-31,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,5,2022
+06.2022 - Payroll - DKSH VSIP,approved,2022-06-01,2022-06-30,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,6,2022
+PG ĐỒNG AN_PAYROLL_T06.2022_CT,approved,2022-06-01,2022-06-30,751,97.0,228.0,222.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - AKZO NOBEL COATINGS,approved,2022-05-26,2022-06-25,725,125.0,30.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+Bảng lương Test H2H BAT DONG NAI,approved,2023-03-01,2023-03-31,767,97.0,217.0,243.0,7.0,manual,13.0,11.0,1136.0,2023.0,monthly_salary,3,2023
+06.2022 - Payroll - DKSH OFFICER,approved,2022-06-01,2022-06-30,2266,126.0,21.0,9558.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - Payroll RHI QUANG NGAI 2,approved,2022-06-01,2022-06-30,2333,126.0,275.0,8455.0,,manual,13.0,,,,monthly_salary,6,2022
+BP Castrol_Bảng lương 06.2022,approved,2022-06-01,2022-06-30,765,97.0,268.0,535.0,,manual,13.0,,,,monthly_salary,6,2022
+07.2022 - Payroll ZUELLIG PHARMA,approved,2022-07-01,2022-07-31,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - AKZO COATINGS,approved,2022-08-01,2022-08-31,725,125.0,30.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+BẢNG LƯƠNG UIP (NSX) 06.2022,approved,2022-06-01,2022-06-30,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,6,2022
+Bảng lương tháng 8/2022 - Vilube,approved,2022-07-26,2022-08-25,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,8,2022
+03.2022 - PAYROLL BÌNH MINH,approved,2022-03-01,2022-03-31,777,97.0,219.0,8455.0,,manual,13.0,,,,monthly_salary,3,2022
+07.2022-BASF-Payroll,approved,2022-07-01,2022-07-31,675,125.0,58.0,195.0,,manual,14.0,11.0,1043.0,,monthly_salary,7,2022
+TOPSOLVENT HAI PHONG - BANG LUONG 07.2022,approved,2022-06-21,2022-07-20,752,126.0,5.0,243.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - ,approved,2022-06-23,2022-07-22,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022_Payroll Maersk DC2,approved,2022-06-21,2022-07-20,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - Payroll DKSH AT TRANSPORT,approved,2022-06-23,2022-07-22,2220,126.0,24.0,9558.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022_Payroll Maesrk DC1,approved,2022-07-01,2022-07-31,740,126.0,53.0,197.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - Payroll RHI QUANG NGAI,approved,2022-06-25,2022-07-24,756,126.0,195.0,8455.0,,manual,13.0,,,,monthly_salary,7,2022
+08.2022 - AKZO NOBEL COATINGS,approved,2022-07-26,2022-08-25,725,125.0,30.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+07.2022_Payroll Maersk DC1.1,approved,2022-06-21,2022-07-20,2280,126.0,265.0,9311.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022_Payroll Maersk DC3,approved,2022-06-21,2022-07-20,1971,126.0,55.0,197.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022_Payroll Maersk DC5,approved,2022-06-21,2022-07-20,2184,126.0,57.0,9311.0,,manual,13.0,,,,monthly_salary,7,2022
+06.2022-MNL IT-PAYROLL,approved,2022-06-01,2022-06-30,2151,125.0,209.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+07.2022 - Payroll HAI LONG,approved,2022-06-23,2022-07-23,2235,126.0,25.0,9558.0,,manual,13.0,,,,monthly_salary,7,2022
+Bảng lương kiểm thử VILUBE 8/2022,draft,2022-07-21,2022-08-20,711,126.0,8.0,245.0,6.0,manual,13.0,11.0,1119.0,,testing_payroll,8,2022
+BẢNG LƯƠNG FIRST SOLAR 01.2022 (Lầ 2),approved,2022-01-01,2022-01-31,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,1,2022
+DKSH VN - BANG LUONG 07.2022,approved,2022-06-23,2022-07-22,694,126.0,22.0,243.0,,manual,13.0,,,,monthly_salary,7,2022
+BV OUTSOURCING - BANG LUONG 07.2022,approved,2022-06-21,2022-07-20,686,126.0,59.0,243.0,,manual,13.0,,,,monthly_salary,7,2022
+BẢNG LƯƠNG ACFC 06.2022 (Bổ sung),approved,2022-06-01,2022-06-30,770,97.0,216.0,208.0,,manual,13.0,,,,monthly_salary,6,2022
+07.2022 - ROSNEFT,approved,2022-07-01,2022-07-31,708,125.0,250.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - BSI,approved,2022-07-01,2022-07-31,727,125.0,245.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - DRAKA,approved,2022-07-01,2022-07-31,691,125.0,246.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - AVERY DENNISION (AD),approved,2022-07-01,2022-07-31,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - SHISEIDO,approved,2022-07-01,2022-07-31,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - Fuji Film (CTV),approved,2022-07-01,2022-07-31,736,125.0,236.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022-COLGATE HCM-Payroll,approved,2022-07-01,2022-07-31,713,125.0,10.0,195.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022-PPG YUNG CHI-Payroll,approved,2022-07-01,2022-07-31,676,125.0,260.0,195.0,,manual,14.0,,,,monthly_salary,7,2022
+Unilever_Bảng lương 07.2022,approved,2022-07-01,2022-07-31,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,7,2022
+Payroll tháng 5/2022 - RHI Quảng Ngãi,approved,2022-05-01,2022-05-31,756,126.0,195.0,8455.0,,manual,13.0,,,,monthly_salary,5,2022
+07.2022_Payroll Maersk DC4,approved,2022-06-21,2022-07-20,1972,126.0,56.0,9311.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022-Coca Cola-Payroll,approved,2022-07-01,2022-07-31,2326,108.0,276.0,195.0,,manual,20.0,,,,monthly_salary,7,2022
+07.2022 - NAM GIANG,approved,2022-07-01,2022-07-31,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+GSK CAT LAI_Bảng lương tháng 07.2022,approved,2022-07-01,2022-07-31,2262,97.0,223.0,9141.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022-UNILEVER-Payroll,approved,2022-07-01,2022-07-31,2159,125.0,197.0,195.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 Thép Nhà Bè - Payroll,approved,2022-07-01,2022-07-31,1976,126.0,196.0,195.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - BRENNTAG,approved,2022-07-01,2022-07-31,728,125.0,237.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+06.2022 - Vilube Payroll bs Trần Anh Kiệt,approved,2022-05-26,2022-06-25,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,6,2022
+07.2022 - KONGSBERG,approved,2022-07-01,2022-07-31,763,125.0,247.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - Payroll RHI HAI DUONG,approved,2022-07-01,2022-07-31,755,126.0,193.0,8455.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - ARITCO,approved,2022-07-01,2022-07-31,759,125.0,241.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương FIRST SOLAR 07.2022,approved,2022-07-01,2022-07-31,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - KING JIM,approved,2022-06-26,2022-07-25,722,103.0,258.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - SONION DRIVER,approved,2022-07-01,2022-07-31,1966,125.0,254.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - SONION HCM,approved,2022-07-01,2022-07-31,685,125.0,255.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+ACV Bắc Ninh_Bảng lương 07.2022,approved,2022-07-01,2022-07-31,2155,97.0,213.0,535.0,,manual,13.0,11.0,,2022.0,monthly_salary,7,2022
+BẢNG LƯƠNG FIRST SOLAR 02.2022,approved,2022-02-01,2022-02-28,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,2,2022
+07.2022 - AKZO DRIVER,approved,2022-07-01,2022-07-31,2134,125.0,28.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - AKZO HQ,approved,2022-07-01,2022-07-31,758,125.0,29.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - AKZO NORTH,approved,2022-06-26,2022-07-25,735,125.0,38.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - AKZO NOBEL CS,approved,2022-06-26,2022-07-25,701,125.0,34.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương Tháng 02/2022_MAERSK DC5,approved,2022-02-01,2022-02-28,2184,126.0,57.0,9311.0,,manual,13.0,,,,monthly_salary,2,2022
+Bảng lương RHI QUANG NGAI 11/2022,approved,2022-10-25,2022-11-24,756,126.0,195.0,8455.0,,manual,13.0,11.0,,,monthly_salary,11,2022
+BẢNG LƯƠNG BAT VINH LOC 02.2022,approved,2022-02-01,2022-02-28,772,97.0,218.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+03.2022_ BANG LUONG MAERSK DC5,approved,2022-02-21,2022-03-20,2184,126.0,57.0,9311.0,,manual,13.0,,,,monthly_salary,3,2022
+BANG LUONG VILUBE_02 2022,approved,2022-01-21,2022-02-20,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,2,2022
+KONGSBERG. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,763,125.0,247.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+HANWHA LIFE. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,693,125.0,9.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+NAM GIANG. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+BP Castrol_Bảng lương 05.2022,approved,2022-05-01,2022-05-31,765,97.0,268.0,535.0,,manual,13.0,,,,monthly_salary,5,2022
+BẢNG LƯƠNG BAT VINH LOC 03.2022,approved,2022-03-01,2022-03-31,772,97.0,218.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+07.2022 - AKZO FLEMINGTON,approved,2022-06-26,2022-07-25,753,125.0,32.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương dự án FOXCONN 07.2022,approved,2022-07-01,2022-07-31,774,97.0,222.0,208.0,,manual,13.0,,,,monthly_salary,7,2022
+Bảng lương UAT ACB (TC2-1),approved,2023-09-01,2023-09-30,691,125.0,246.0,243.0,7.0,manual,14.0,11.0,1005.0,2023.0,monthly_salary,9,2023
+PPG YUNGCHI. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,676,125.0,260.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+BAT VL - BANG LUONG 07.2022,approved,2022-07-01,2022-07-31,772,97.0,218.0,243.0,,manual,13.0,,,,monthly_salary,7,2022
+Payroll tháng 5/2022 - Zuellig Pharma,approved,2022-05-01,2022-05-31,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,5,2022
+PROMINENT. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,683,125.0,249.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+SCHENKER NORTH. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,2241,125.0,253.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+SCHENKER. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,1831,125.0,251.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+SHISEIDO. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+SONION DRIVER. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,1966,125.0,254.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+SONION HCM. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,685,125.0,255.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+VOLCAFE. Bang luong thang 03.2022,approved,2022-02-21,2022-03-20,760,125.0,45.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+ZUELLIG PHARMA. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,2,2022
+Unilever_Bảng lương 08.2022,approved,2022-08-01,2022-08-31,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,8,2022
+Schenker Logistics North. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,2286,103.0,266.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+BẢNG LƯƠNG BAT VINH LOC 01.2022,approved,2022-01-01,2022-01-31,772,97.0,218.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+07.2022 - SCHENKER LOGISTIC NORTH,approved,2022-07-01,2022-07-31,2286,103.0,266.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+DKSH HECA - BANG LUONG THANG 03.2022,approved,2022-02-23,2022-03-22,696,126.0,23.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+Bảng lương UAT ACB (TC2-3),approved,2023-09-01,2023-09-30,749,126.0,238.0,8455.0,7.0,un_pub,13.0,11.0,1131.0,2023.0,monthly_salary,9,2023
+08.2022-Payroll-MBS,approved,2022-08-01,2022-08-31,1975,125.0,62.0,195.0,,manual,14.0,,,,monthly_salary,8,2022
+07.2022 - FCV NA ADMIN,approved,2022-07-01,2022-07-31,783,103.0,198.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+HEINEKEN HCM_PAYROLL T07.2022,approved,2022-07-01,2022-07-31,1872,97.0,212.0,222.0,,manual,13.0,,,2022.0,monthly_salary,7,2022
+BV SUPPORTER - BANG LUONG 06.2022,approved,2022-05-21,2022-06-20,687,126.0,61.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+TOPSOLVENT GO DAU - BANG LUONG THANG 08.2022,approved,2022-07-21,2022-08-20,697,126.0,6.0,243.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022-Payroll- PPG VN,approved,2022-08-01,2022-08-31,731,125.0,46.0,195.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022-Payroll- PPG YUNG CHI,approved,2022-08-01,2022-08-31,676,125.0,260.0,195.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - Payroll RHI HUNG YEN,approved,2022-07-25,2022-08-24,1962,126.0,194.0,195.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 - Payroll RHI HA TINH,approved,2022-08-01,2022-08-31,2149,126.0,192.0,195.0,,manual,13.0,,,,monthly_salary,8,2022
+Bảng lương kiểm thử VILUBE 11/2022,pending,2022-10-21,2022-11-20,711,126.0,8.0,245.0,7.0,manual,13.0,11.0,1119.0,,testing_payroll,11,2022
+Bảng lương kiểm thử VILUBE 11/2022,pending,2022-10-21,2022-11-20,711,126.0,8.0,245.0,5.0,manual,13.0,11.0,1119.0,,testing_payroll,11,2022
+P&G Đồng An_Payroll T07.2022_CT,approved,2022-07-01,2022-07-31,751,97.0,228.0,222.0,,manual,13.0,,,,monthly_salary,7,2022
+04.2022_BANG LUONG MAERSK DC5,approved,2022-03-21,2022-04-20,2184,126.0,57.0,9311.0,,manual,13.0,,,,monthly_salary,4,2022
+DKSH HECA - BANG LUONG 04.2022,approved,2022-03-23,2022-04-22,696,126.0,23.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+06.2022_BANG LUONG MAERSK DC5,approved,2022-05-21,2022-06-20,2184,126.0,57.0,9311.0,,manual,13.0,,,,monthly_salary,6,2022
+Bảng lương EISAI tháng 07.2022,approved,2022-07-01,2022-07-31,2300,97.0,274.0,9141.0,,manual,13.0,,,,monthly_salary,7,2022
+08.2022-Payroll- Itochu Power,approved,2022-08-01,2022-08-31,734,125.0,48.0,195.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022-Payroll-Itochu VP,approved,2022-08-01,2022-08-31,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,8,2022
+Bảng lương tháng 08/2022 - HAILONG,approved,2022-07-23,2022-08-22,2235,126.0,25.0,9558.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022-Payroll-Coca Cola,approved,2022-08-01,2022-08-31,2326,108.0,276.0,195.0,,manual,20.0,,,,monthly_salary,8,2022
+Bảng lương tháng 08/2022 - DKSH VSIP,approved,2022-07-23,2022-08-22,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,8,2022
+DKSH VN - BANG LUONG THANG 08.2022,approved,2022-07-23,2022-08-22,694,126.0,22.0,243.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022-Payroll-MNL IT,approved,2022-08-01,2022-08-31,2151,125.0,209.0,195.0,,manual,14.0,,,,monthly_salary,8,2022
+Bảng lương tháng 08/2022 - DKSH OFFICER,approved,2022-07-23,2022-08-22,2266,126.0,21.0,9558.0,,manual,13.0,,,,monthly_salary,8,2022
+DKSH HECA - BANG LUONG THANG 08.2022,approved,2022-07-23,2022-08-22,696,126.0,23.0,243.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022-Payroll-Colgate HCM,approved,2022-08-01,2022-08-31,713,125.0,10.0,195.0,,manual,14.0,,,,monthly_salary,8,2022
+Vilube 3/2023,approved,2023-02-21,2023-03-20,711,126.0,8.0,245.0,7.0,manual,13.0,11.0,1119.0,2023.0,monthly_salary,3,2023
+Payroll T03.2022,approved,2022-02-23,2022-03-22,771,97.0,220.0,215.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+06.2022 - ARITCO,approved,2022-06-01,2022-06-30,759,125.0,241.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+SAPHARCO - BANG LUONG THANG 07.2022 BO SUNG,approved,2022-07-01,2022-07-31,749,126.0,238.0,8455.0,,manual,13.0,,,,monthly_salary,7,2022
+BANG LUONG MAERSK DC2_02 2022,approved,2022-01-21,2022-02-20,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,2,2022
+Payroll T08.2022,approved,2022-07-23,2022-08-22,771,97.0,220.0,215.0,,manual,13.0,,,2022.0,monthly_salary,8,2022
+08.2022 PAYROLL MAERSK DC1,approved,2022-07-21,2022-08-20,740,126.0,53.0,197.0,,manual,13.0,,,,monthly_salary,8,2022
+BV SUBCONTRACT - BANG LUONG THANG 08.2022.,approved,2022-07-21,2022-08-20,688,126.0,60.0,243.0,,manual,13.0,,,,monthly_salary,8,2022
+SONION DRIVER. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,1966,125.0,254.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+08.2022 PAYROLL MAERSK DC1.1,approved,2022-07-21,2022-08-20,2280,126.0,265.0,9311.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 PAYROLL MAERSK DC3,approved,2022-07-21,2022-08-20,1971,126.0,55.0,197.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 PAYROLL MAERSK DC4,approved,2022-07-21,2022-08-20,1972,126.0,56.0,9311.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 PAYROLL MAERSK DC5,approved,2022-07-21,2022-08-20,2184,126.0,57.0,9311.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 PAYROLL MAERSK DC2-AMZ,approved,2022-07-21,2022-08-20,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 - FCV ARAS,approved,2022-07-25,2022-08-24,814,103.0,203.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - BROTHER,approved,2022-08-01,2022-08-31,732,125.0,3.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+AMWAY 7/2022,approved,2022-06-21,2022-07-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,testing_payroll,7,2022
+PG DONG AN TV 09/2022,draft,2022-09-01,2022-09-30,751,97.0,273.0,197.0,,manual,13.0,11.0,,2023.0,monthly_salary,9,2022
+08.2022 - SONION HCM,approved,2022-08-01,2022-08-31,685,125.0,255.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - BSI,approved,2022-08-01,2022-08-31,727,125.0,245.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+03.2022 - FCV CRM,approved,2022-03-01,2022-03-31,810,103.0,204.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+03.2022 - FCV ACTIVATION,approved,2022-03-01,2022-03-31,2156,108.0,206.0,229.0,,manual,20.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG MAERSK DC1,approved,2022-02-21,2022-03-20,740,126.0,53.0,197.0,,manual,13.0,,,,monthly_salary,3,2022
+08.2022 - AVERY DENNISION (AD),approved,2022-08-01,2022-08-31,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - SONION DRIVER,approved,2022-08-01,2022-08-31,1966,125.0,254.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - NAM GIANG,approved,2022-08-01,2022-08-31,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - PROMINENT (VNPAL),approved,2022-08-01,2022-08-31,683,125.0,249.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+07.2022 - PROMINENT (VN PAL),approved,2022-07-01,2022-07-31,683,125.0,249.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+08.2022 - Fuji Film,approved,2022-08-01,2022-08-31,1963,125.0,235.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - TUV,approved,2022-08-01,2022-08-31,692,125.0,7.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+Bảng lương EISAI tháng 08.2022,approved,2022-08-01,2022-08-31,2300,97.0,274.0,9141.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 - KONGSBERG,approved,2022-08-01,2022-08-31,763,125.0,247.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - ARITCO,approved,2022-08-01,2022-08-31,759,125.0,241.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - KING JIM,approved,2022-07-26,2022-08-25,722,103.0,258.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+Test,pending,2023-04-01,2023-04-30,777,97.0,219.0,8455.0,7.0,manual,13.0,11.0,1107.0,2023.0,monthly_salary,4,2023
+BINH MINH 03.2023,approved,2023-05-01,2023-05-31,777,97.0,219.0,197.0,7.0,manual,13.0,11.0,1107.0,2023.0,monthly_salary,5,2023
+08.2022 - SHISEIDO,approved,2022-08-01,2022-08-31,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - AKZO NOBEL CS,approved,2022-07-26,2022-08-25,701,125.0,34.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+PROMINENT. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,683,125.0,249.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+FujiFilm CTV. bang luong thang 03.2022,approved,2022-03-01,2022-03-31,736,125.0,236.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+08.2022 - AKZO NOBEL HQ,approved,2022-08-01,2022-08-31,758,125.0,29.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - AKZO NOBEL DRIVER,approved,2022-08-01,2022-08-31,2134,125.0,28.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - CompAsia,approved,2022-08-01,2022-08-31,2263,103.0,202.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - AKZO NOBEL FLEMINGTON,approved,2022-07-26,2022-08-25,753,125.0,32.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - BRENNTAG,approved,2022-08-01,2022-08-31,728,125.0,237.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - AKZO NOBEL NORTH,approved,2022-07-26,2022-08-25,735,125.0,38.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+01.2022 - Amway Rep,approved,2022-01-01,2022-01-31,789,103.0,207.0,275.0,,manual,14.0,,,2022.0,monthly_salary,1,2022
+08.2022 - FCV CRM,approved,2022-08-01,2022-08-31,810,103.0,204.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+07.2022 - Amway Rep,approved,2022-07-01,2022-07-31,789,103.0,207.0,275.0,,manual,14.0,11.0,,2022.0,monthly_salary,7,2022
+08.2022 - SCHENKER NORTH,approved,2022-08-01,2022-08-31,2241,125.0,253.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+07.2022 - FCV CRM,approved,2022-07-01,2022-07-31,810,103.0,204.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - PAYROLL BÌNH MINH,approved,2022-07-01,2022-07-31,777,97.0,219.0,8455.0,,manual,13.0,,,,monthly_salary,7,2022
+08.2022 - Amway - rep,approved,2022-08-01,2022-08-31,789,103.0,207.0,275.0,,manual,14.0,,,2022.0,testing_payroll,8,2022
+BP Production_Bảng lương 01.2022,approved,2022-01-01,2022-01-31,765,97.0,268.0,535.0,,manual,13.0,,,,monthly_salary,1,2022
+PPG VN - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,731,125.0,46.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+BP CASTROL_BẢNG LƯƠNG 03.2022,approved,2022-03-01,2022-03-31,765,97.0,268.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+02.2022 - Amway Rep,approved,2022-02-01,2022-02-28,789,103.0,207.0,275.0,,manual,14.0,,,2022.0,monthly_salary,2,2022
+03.2022 - Amway Rep,approved,2022-03-01,2022-03-31,789,103.0,207.0,275.0,,manual,14.0,,,2022.0,monthly_salary,3,2022
+03.2022_ BANG LUONG MAERSK DC4,approved,2022-02-21,2022-03-20,1972,126.0,56.0,9311.0,,manual,13.0,,,,monthly_salary,3,2022
+07.2022-PPG VN-Payroll,approved,2022-07-01,2022-07-31,731,125.0,46.0,195.0,,manual,14.0,,,,monthly_salary,7,2022
+05.2022 - Amway Rep,approved,2022-05-01,2022-05-31,789,103.0,207.0,275.0,,manual,14.0,,,2022.0,monthly_salary,5,2022
+08.2022 - ROSNEFT,approved,2022-08-01,2022-08-31,708,125.0,250.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - Fuji Film (CTV),approved,2022-08-01,2022-08-31,736,125.0,236.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+Bảng lương GSK CAT LAI tháng 08.2022,approved,2022-08-01,2022-08-31,2262,97.0,223.0,9141.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 - FCV NA ADMIN,approved,2022-08-01,2022-08-31,783,103.0,198.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - FCV NA CL,approved,2022-08-01,2022-08-31,784,103.0,199.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+SYNAGIE_PAYROLL T08.2022,approved,2022-08-01,2022-08-31,2273,97.0,234.0,222.0,,manual,13.0,,,,monthly_salary,8,2022
+Shell_Bảng lương 01.2022,approved,2021-12-24,2022-01-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,1,2022
+08.2022 - BP OFFICE,approved,2022-08-01,2022-08-31,682,125.0,242.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+BANG LUONG MAERSK DC6.2_01 2022,approved,2022-01-01,2022-01-31,744,126.0,15.0,245.0,,manual,13.0,,,,monthly_salary,1,2022
+BANG LUONG MAERSK DC6.3_01 2022,approved,2022-01-01,2022-01-31,1970,126.0,13.0,197.0,,manual,13.0,,,,monthly_salary,1,2022
+test,pending,2022-10-01,2022-10-31,750,97.0,227.0,222.0,3.0,manual,13.0,,,,monthly_salary,10,2022
+Bảng lương kiểm thử VILUBE 8/2022,draft,2022-07-21,2022-08-20,711,126.0,8.0,245.0,6.0,manual,13.0,11.0,1119.0,2022.0,testing_payroll,8,2022
+03.2022_ BANG LUONG AT TRANSPORT,approved,2022-02-23,2022-03-22,2220,126.0,24.0,9558.0,,manual,13.0,,,,monthly_salary,3,2022
+PG ben cat,draft,2022-10-01,2022-10-31,750,97.0,,222.0,,manual,13.0,11.0,1043.0,,monthly_salary,10,2022
+Bảng lương RHI QUANG NGAI 2 T7/2022,draft,2022-07-01,2022-07-31,2333,126.0,275.0,8455.0,1.0,manual,13.0,11.0,1103.0,,monthly_salary,7,2022
+FCV PG ACTIVATION,draft,2022-10-01,2022-10-31,2156,108.0,206.0,229.0,3.0,manual,20.0,19.0,964.0,,monthly_salary,10,2022
+Bảng lương tháng 11/2022 - SYNAGIE,draft,2022-11-01,2022-11-30,2273,97.0,,222.0,1.0,manual,13.0,11.0,944.0,,monthly_salary,11,2022
+Bảng lương tháng 11/2022 - FCV NA,draft,2022-11-01,2022-11-30,781,103.0,,229.0,3.0,manual,14.0,11.0,970.0,,monthly_salary,11,2022
+Bảng lương tháng 11/2022 - BINH MINH,draft,2022-11-01,2022-11-30,777,97.0,,8455.0,3.0,manual,13.0,11.0,1107.0,,monthly_salary,11,2022
+amway,approved,2023-03-21,2023-04-20,788,103.0,208.0,275.0,5.0,manual,14.0,11.0,1144.0,2023.0,monthly_salary,4,2023
+Bảng lương FIRST SOLAR T7/2022,draft,2022-07-01,2022-07-31,779,97.0,211.0,208.0,3.0,manual,13.0,11.0,1046.0,,monthly_salary,7,2022
+Bảng lương Test H2H BAT DONG NAI (02),approved,2023-09-01,2023-09-30,767,97.0,217.0,243.0,7.0,manual,13.0,11.0,1136.0,2023.0,monthly_salary,9,2023
+Bảng lương MBS T11/2022,approved,2022-11-01,2022-11-30,1975,125.0,62.0,195.0,1.0,manual,14.0,11.0,1132.0,,monthly_salary,11,2022
+MBS test,draft,2022-12-01,2022-12-31,1975,125.0,62.0,195.0,1.0,manual,14.0,11.0,1132.0,,monthly_salary,12,2022
+Bảng lương tháng 12/2022 - FCV NA,draft,2022-12-01,2022-12-31,781,103.0,,229.0,3.0,manual,14.0,11.0,970.0,,monthly_salary,12,2022
+BANG LUONG VILUBE 01 2022,approved,2021-12-21,2022-01-20,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,1,2022
+Foxconn 9.2022,draft,2022-09-01,2022-09-30,774,97.0,222.0,208.0,3.0,manual,13.0,11.0,1113.0,,monthly_salary,9,2022
+ddddd,draft,2022-12-01,2022-12-31,1988,,,,,manual,,,,,monthly_salary,12,2022
+Bảng lương 7/2022 PG BEN CAT ,draft,2022-07-01,2022-07-31,750,97.0,227.0,222.0,3.0,manual,13.0,11.0,1043.0,,monthly_salary,7,2022
+Bảng lương 8/2022 PG BEN CAT ,draft,2022-08-01,2022-08-31,750,97.0,272.0,222.0,3.0,manual,13.0,11.0,1043.0,,monthly_salary,8,2022
+Bảng lương kiểm thử MBS 11/2022,approved,2022-12-01,2022-12-31,1975,125.0,62.0,195.0,,manual,14.0,11.0,1132.0,,final_payroll,12,2022
+test,draft,2022-12-01,2022-12-31,681,125.0,,195.0,1.0,manual,14.0,11.0,1118.0,,monthly_salary,12,2022
+Bảng lương tháng 01/2022 MAERSK DC 4,approved,2022-01-01,2022-01-31,1972,126.0,56.0,9311.0,,manual,13.0,,,,monthly_salary,1,2022
+BẢNG LƯƠNG HENKEL THÁNG 01.2022,approved,2022-01-01,2022-01-31,699,126.0,4.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+GREIF. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,2225,125.0,43.0,243.0,,manual,14.0,,,,monthly_salary,4,2022
+BAT DONG NAI 8.2022,approved,2022-08-01,2022-08-31,767,97.0,217.0,243.0,3.0,manual,13.0,11.0,1136.0,2022.0,final_payroll,8,2022
+Bảng lương kiểm thử ACV BACNINH 12/2022,draft,2022-12-01,2022-12-31,2155,97.0,213.0,535.0,3.0,manual,13.0,11.0,,,testing_payroll,12,2022
+Bảng lương test công thức KUEHNE+NAGEL T2,draft,2023-02-01,2023-02-28,771,97.0,220.0,215.0,,manual,13.0,11.0,,2023.0,testing_payroll,2,2023
+tét,draft,2023-03-01,2023-03-31,1872,97.0,,215.0,,manual,13.0,11.0,,2023.0,testing_payroll,3,2023
+SAPHARCO - BANG LUONG THANG 05.2022,approved,2022-05-01,2022-05-31,749,126.0,238.0,8455.0,,manual,13.0,,,,monthly_salary,5,2022
+Bảng lương kiểm thử MBS 11/2022,approved,2022-12-01,2022-12-31,1975,125.0,62.0,195.0,,manual,14.0,11.0,1132.0,,final_payroll,12,2022
+HENKEL - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,699,126.0,4.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+04.2022-UNILEVER-PAYROLL,approved,2022-04-01,2022-04-30,2159,125.0,197.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+02.2022 - FCV NA,approved,2022-02-01,2022-02-28,781,103.0,200.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+03.2022_ BANG LUONG MAERSK DC3,approved,2022-02-21,2022-03-20,1971,126.0,55.0,197.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG RHI HAI DUONG,approved,2022-03-01,2022-03-31,755,126.0,193.0,8455.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG RHI HA TINH,approved,2022-03-01,2022-03-31,2149,126.0,192.0,195.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG RHI HUNG YEN,approved,2022-03-01,2022-03-31,1962,126.0,194.0,195.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG THEP NHA BE,approved,2022-03-01,2022-03-31,1976,126.0,196.0,195.0,,manual,13.0,,,,monthly_salary,3,2022
+Bảng lương 7/2022 FCV NA  ,draft,2022-07-01,2022-07-31,781,103.0,200.0,229.0,3.0,manual,14.0,11.0,970.0,,monthly_salary,7,2022
+Bảng lương FCV CRM T7/2022,draft,2022-07-01,2022-07-31,810,103.0,204.0,229.0,7.0,manual,14.0,11.0,961.0,,monthly_salary,7,2022
+Bảng lương kiểm thử DRAKA 12/2022,approved,2023-12-01,2023-12-31,691,125.0,246.0,243.0,7.0,manual,14.0,11.0,1005.0,2023.0,monthly_salary,12,2023
+DKSH VN - BANG LUONG THANG 03.2022,approved,2022-02-23,2022-03-22,694,126.0,22.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+GIGAMED - BANG LUONG THANG 02.2022,approved,2022-02-01,2022-02-28,2227,126.0,51.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+MAERSK SOLAR - BANG LUONG THANG 03.2022,approved,2022-02-22,2022-03-21,2248,126.0,19.0,530.0,,manual,13.0,,,,monthly_salary,3,2022
+TOPSOLVENT GO DAU - BANG LUONG THANG 03.2022,approved,2022-02-21,2022-03-20,697,126.0,6.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+TOPSOLVENT HAI PHONG - BANG LUONG THANG 03.2022,approved,2022-02-21,2022-03-20,752,126.0,5.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+TUV - BANG LUONG THANG 03.2022,approved,2022-03-01,2022-03-31,692,125.0,7.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+Unilever_Bảng lương 03.2022 (1.3),approved,2022-03-01,2022-03-31,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+AMWAY TEST,draft,2022-11-21,2022-12-20,788,103.0,208.0,275.0,7.0,manual,14.0,11.0,1144.0,2023.0,monthly_salary,12,2022
+DKSH HECA 01.2023,approved,2023-01-01,2023-01-31,696,126.0,23.0,243.0,,manual,13.0,11.0,,2023.0,final_payroll,1,2023
+Bảng tổng hợp PIT 20-22,draft,2023-08-01,2023-08-31,2294,94.0,270.0,,,manual,12.0,11.0,1026.0,2020.0,testing_payroll,8,2023
+Brenntag. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,728,125.0,237.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+AMWAY 8/2022,approved,2022-07-21,2022-08-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,8,2022
+AMWAY 9/2022,approved,2022-08-21,2022-09-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,9,2022
+PG BEN CAT_PAYROLL T02.2022,approved,2022-02-01,2022-02-28,750,97.0,227.0,222.0,,manual,13.0,,,2022.0,monthly_salary,2,2022
+P&G BẾN CÁT_PAYROLL T05.2022_CT,approved,2022-05-01,2022-05-31,750,97.0,227.0,222.0,,manual,13.0,,,2022.0,monthly_salary,5,2022
+BANG LUONG MAERSK BACNINH_01 2022,approved,2021-12-22,2022-01-21,748,126.0,11.0,245.0,,manual,13.0,,,,monthly_salary,1,2022
+PG BẾN CÁT_PAYROLL_T06.2022_CT,approved,2022-06-01,2022-06-30,750,97.0,227.0,222.0,,manual,13.0,,,2022.0,monthly_salary,6,2022
+P&G BẾN CÁT_PAYROLL T03.2022_TV.PHAT HANH,approved,2022-03-01,2022-03-31,750,97.0,272.0,222.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+02.2022 - FCV NA TL,approved,2022-02-01,2022-02-28,785,103.0,201.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+05.2022_BANG LUONG MAERSK DC1,approved,2022-04-21,2022-05-20,740,126.0,53.0,197.0,,manual,13.0,,,,monthly_salary,5,2022
+Payroll_DKSH OFFICER 052022,approved,2022-04-23,2022-05-22,2266,126.0,21.0,9558.0,,manual,13.0,,,,monthly_salary,5,2022
+Brenntag. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,728,125.0,237.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+BAT VL - BANG LUONG 06.2022,approved,2022-06-01,2022-06-30,772,97.0,218.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+BAT VL - BANG LUONG 04.2022,approved,2022-04-01,2022-04-30,772,97.0,218.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+PAYROLL T04.2022_PG BEN CAT_TV,approved,2022-04-01,2022-04-30,750,97.0,272.0,222.0,,manual,13.0,,,2022.0,monthly_salary,4,2022
+BẢNG LƯƠNG ELANCO 02.2022,approved,2022-02-01,2022-02-28,2171,97.0,221.0,185.0,,manual,13.0,,,,monthly_salary,2,2022
+Bảng lương Test H2H DRAKA,approved,2023-03-01,2023-03-31,691,125.0,246.0,243.0,7.0,manual,14.0,11.0,1005.0,2023.0,monthly_salary,3,2023
+P&G BẾN CÁT_PAYROLL T05.2022_TV,approved,2022-05-01,2022-05-31,750,97.0,272.0,222.0,,manual,13.0,,,2022.0,monthly_salary,5,2022
+05.2022 - AKZO FLEMINGTON,approved,2022-04-26,2022-05-25,753,125.0,32.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+06.2022 - AKZO NOBEL FLEMINGTON,approved,2022-05-26,2022-06-25,753,125.0,32.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+03.2022-UNILEVER-PAYROLL,approved,2022-03-01,2022-03-31,2159,125.0,197.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+BẢNG LƯƠNG ELANCO 06.2022,approved,2022-06-01,2022-06-30,2171,97.0,221.0,185.0,,manual,13.0,,,,monthly_salary,6,2022
+MAERSK DC6.4 - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,1999,126.0,16.0,8455.0,,manual,13.0,,,,monthly_salary,2,2022
+Shell_Payroll 02.2022,approved,2022-01-24,2022-02-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+Bảng lương FIRST SOLAR 03.2022,approved,2022-03-01,2022-03-31,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG VILUBE,approved,2022-03-01,2022-03-31,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,3,2022
+UIP TSX_Bảng lương 02.2022,approved,2022-02-01,2022-02-28,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+BAT VL - BANG LUONG THANG 05.2022,approved,2022-05-01,2022-05-31,772,97.0,218.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+BV SUBCONTRACT - BANG LUONG 07.2022,approved,2022-06-21,2022-07-20,688,126.0,60.0,243.0,,manual,13.0,,,,monthly_salary,7,2022
+P&G ĐỒNG AN_PAYROLL T03.2022_CT,approved,2022-03-01,2022-03-31,751,97.0,228.0,222.0,,manual,13.0,,,,monthly_salary,3,2022
+08.2022 - SCHENKER LOGISTIC NORTH,approved,2022-08-01,2022-08-31,2286,103.0,266.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+BẢNG LƯƠNG DỰ ÁN ELANCO 03.2022,approved,2022-03-01,2022-03-31,2171,97.0,221.0,185.0,,manual,13.0,,,,monthly_salary,3,2022
+Bảng lương Tháng 02/2022_MAERSK DC4,approved,2022-02-01,2022-02-28,1972,126.0,56.0,9311.0,,manual,13.0,,,,monthly_salary,2,2022
+HANWA - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,693,125.0,9.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+PG DONG AN 12/2022,draft,2022-12-01,2022-12-31,751,97.0,228.0,197.0,3.0,manual,13.0,11.0,,2023.0,monthly_salary,12,2022
+PG DONG AN 09/2022 CT,draft,2022-09-01,2022-09-30,751,97.0,228.0,197.0,,manual,13.0,11.0,,2023.0,monthly_salary,9,2022
+Bảng lương 7/2022 FCV NA,draft,2022-07-01,2022-07-31,781,103.0,200.0,229.0,3.0,manual,14.0,11.0,970.0,,monthly_salary,7,2022
+PG BẾN CÁT_PAYROLL T06.2022_TV,approved,2022-06-01,2022-06-30,750,97.0,272.0,222.0,,manual,13.0,,,2022.0,monthly_salary,6,2022
+Bảng lương tháng 7/2022 BROTHER,approved,2022-07-01,2022-07-31,732,125.0,3.0,229.0,3.0,manual,14.0,11.0,1064.0,,monthly_salary,7,2022
+Bảng lương 7/2022 FCV ARAS,approved,2022-06-25,2022-07-24,814,103.0,203.0,275.0,3.0,manual,14.0,11.0,962.0,,monthly_salary,7,2022
+Bảng lương 3/2022 PG BẾN CÁT CT,approved,2022-03-01,2022-03-31,750,97.0,227.0,222.0,7.0,manual,13.0,11.0,,,monthly_salary,3,2022
+Shell_Bảng lương 01.2022 (Add),approved,2022-01-24,2022-02-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+Shell_Bảng lương 03.2022,approved,2022-02-24,2022-03-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+06.2022 - Payroll MAERSK DC6.4,approved,2022-06-01,2022-06-30,1999,126.0,16.0,8455.0,,manual,13.0,,,,monthly_salary,6,2022
+03.2022 - FCV NA TL,approved,2022-03-01,2022-03-31,785,103.0,201.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+BẢNG LƯƠNG MASAN 04.2022,approved,2022-04-01,2022-04-30,766,97.0,226.0,208.0,,manual,13.0,,,,monthly_salary,4,2022
+05.2022 - HANWHA LIFE,approved,2022-05-01,2022-05-31,693,125.0,9.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+Shell_Bảng lương 04.2022,approved,2022-03-24,2022-04-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,4,2022
+06.2022 - AVERY DENNISON,approved,2022-06-01,2022-06-30,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+08.2022 - Payroll RHI QUANG NGAI,approved,2022-07-25,2022-08-24,756,126.0,195.0,8455.0,,manual,13.0,,,,monthly_salary,8,2022
+Unilever_Bảng lương 04.2022,approved,2022-04-01,2022-04-30,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,4,2022
+Payroll_VILUBE 052022,approved,2022-04-26,2022-05-25,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,5,2022
+BV SUPPORTER - BANG LUONG 05.2022,approved,2022-04-21,2022-05-20,687,126.0,61.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+BẢNG LƯƠNG MASAN 05.2022,approved,2022-05-01,2022-05-31,766,97.0,226.0,208.0,,manual,13.0,,,,monthly_salary,5,2022
+HENKEL - BẢNG LƯƠNG THÁNG 06.2022,approved,2022-06-01,2022-06-30,699,126.0,4.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - AKZO NOBEL POWDER,approved,2022-05-26,2022-06-25,703,125.0,41.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - FCV NA TLS,approved,2022-06-01,2022-06-30,785,103.0,201.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+06.2022 - SCHENKER HCM,approved,2022-06-01,2022-06-30,1831,125.0,251.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+FUJIFILM. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,1963,125.0,235.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+07.2022 - FCV ARAS,approved,2022-06-25,2022-07-24,814,103.0,203.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+HENKEL - BẢNG LƯƠNG THÁNG 05.2022,approved,2022-05-01,2022-05-31,699,126.0,4.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+Shell_Bảng lương 07.2022,approved,2022-06-24,2022-07-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - SCHENKER VN,approved,2022-07-01,2022-07-31,1831,125.0,251.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+HENKEL - BẢNG LƯƠNG THÁNG 03.2022,approved,2022-03-01,2022-03-31,699,126.0,4.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+08.2022 - Payroll MAERSK DC6.4,approved,2022-08-01,2022-08-31,1999,126.0,16.0,8455.0,,manual,13.0,,,,monthly_salary,8,2022
+BẢNG LƯƠNG MASAN 07.2022,approved,2022-07-01,2022-07-31,766,97.0,226.0,208.0,,manual,13.0,,,,monthly_salary,7,2022
+BV SUBCONTRACT - BANG LUONG THANG 08.2022,approved,2022-07-21,2022-08-20,686,126.0,59.0,243.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 - SCHENKER,approved,2022-08-01,2022-08-31,1831,125.0,251.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022 - HANWHA LIFE,approved,2022-08-01,2022-08-31,693,125.0,9.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+08.2022-Payroll-Unilever,approved,2022-08-01,2022-08-31,2159,125.0,197.0,195.0,,manual,14.0,,,,monthly_salary,8,2022
+Bảng lương FIRST SOLAR 06.2022,approved,2022-06-01,2022-06-30,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,6,2022
+BV OUTSOURCING - BANG LUONG THANG 03.2022,approved,2022-02-21,2022-03-20,686,126.0,59.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+Bảng lương FOXCONN 05.2022,approved,2022-05-01,2022-05-30,774,97.0,222.0,208.0,,manual,13.0,,,,monthly_salary,5,2022
+Bảng lương BASF 10/2022,draft,2022-10-01,2022-10-31,675,125.0,,195.0,1.0,manual,14.0,11.0,980.0,,monthly_salary,10,2022
+HANWHA LIFE. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,693,125.0,9.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+Bảng lương 3/2022 PG BẾN CÁT TV,draft,2022-03-01,2022-03-31,750,97.0,272.0,222.0,3.0,manual,13.0,11.0,,,monthly_salary,3,2022
+03.2022_ BANG LUONG ZUELLIG,approved,2022-03-01,2022-03-31,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,3,2022
+Masan 01.2022,approved,2022-01-01,2022-01-31,766,97.0,226.0,208.0,,manual,13.0,,,,monthly_salary,1,2022
+BẢNG LƯƠNG MASAN 06.2022,approved,2022-06-01,2022-06-30,766,97.0,226.0,208.0,,manual,13.0,,,,monthly_salary,6,2022
+Bình Minh 01.2022,approved,2022-01-01,2022-01-31,777,97.0,219.0,8455.0,,manual,13.0,,,,monthly_salary,1,2022
+P&G ĐỒNG AN_PAYROLL T03.2022_TV,approved,2022-03-01,2022-03-31,751,97.0,273.0,222.0,,manual,13.0,,,,monthly_salary,3,2022
+BANG LUONG MAERSK DC1.1_02 2022,approved,2022-01-21,2022-02-20,2280,126.0,265.0,9311.0,,manual,13.0,,,,monthly_salary,2,2022
+Payroll tháng 5/2022 - Maersk DC6.4,approved,2022-05-01,2022-05-31,1999,126.0,16.0,8455.0,,manual,13.0,,,,monthly_salary,5,2022
+06.2022 - HANWHA LIFE,approved,2022-06-01,2022-06-30,693,125.0,9.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+Masan 02.2022,approved,2022-02-01,2022-02-28,766,97.0,226.0,208.0,,manual,13.0,,,,monthly_salary,2,2022
+06.2022 - KING JIM,approved,2022-05-26,2022-06-25,722,103.0,258.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+THĂNG LONG_PAYROLL T06.2022,approved,2022-06-01,2022-06-30,773,97.0,230.0,222.0,,manual,13.0,,,,monthly_salary,6,2022
+Basf lương 6/2022 (Kthu),pending,2022-06-01,2022-06-30,675,125.0,58.0,195.0,6.0,manual,14.0,11.0,980.0,,testing_payroll,6,2022
+ACFC 10.2022,pending,2023-03-01,2023-03-31,770,97.0,216.0,208.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,3,2023
+Test,draft,2023-02-21,2023-03-20,711,126.0,8.0,245.0,,manual,13.0,11.0,1119.0,2023.0,monthly_salary,3,2023
+Bảng lương kiểm thử MAERSK CFS 03.2023,draft,2023-03-01,2023-03-31,739,126.0,52.0,197.0,6.0,manual,13.0,11.0,,2023.0,monthly_salary,3,2023
+03.2022 - YAMAHA,approved,2022-03-01,2022-03-31,2202,108.0,264.0,229.0,,manual,20.0,,,,monthly_salary,3,2022
+mae test,approved,2023-01-01,2023-01-31,739,126.0,52.0,197.0,,manual,13.0,11.0,,2023.0,final_payroll,1,2023
+Bảng lương kiểm thử MAERSK CFS 11/2022,approved,2022-12-01,2022-12-31,739,126.0,52.0,197.0,,manual,13.0,11.0,,2022.0,final_payroll,12,2022
+mae test,approved,2023-01-01,2023-01-31,739,126.0,52.0,197.0,,manual,13.0,11.0,,2023.0,final_payroll,1,2023
+PG BEN CAT_12/2022,draft,2022-12-01,2022-12-31,750,97.0,227.0,222.0,7.0,manual,13.0,11.0,1043.0,2022.0,monthly_salary,12,2022
+BASF. bang luong thang 04.2022,approved,2022-04-01,2022-04-30,675,125.0,58.0,195.0,,manual,14.0,,,2022.0,monthly_salary,4,2022
+Basf lương 6/2022 (Kthu),approved,2022-06-01,2022-06-30,675,125.0,58.0,195.0,1.0,manual,14.0,11.0,980.0,,monthly_salary,6,2022
+Bảng lương BASF tháng 11/2022,pending,2022-11-01,2022-11-30,675,125.0,58.0,195.0,1.0,manual,14.0,11.0,980.0,,testing_payroll,11,2022
+Basf lương 7/2022 (Kthu),approved,2022-07-01,2022-07-31,675,125.0,58.0,195.0,6.0,manual,14.0,11.0,1141.0,,testing_payroll,7,2022
+Basf lương 7/2022 (Kthu),approved,2022-07-01,2022-07-31,675,125.0,58.0,195.0,6.0,manual,14.0,11.0,1141.0,,testing_payroll,7,2022
+MAERSK CFS 02.2023,pending,2023-02-01,2023-02-28,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,2,2023
+Bảng lương SAPHARCO 04/2023,approved,2023-10-01,2023-10-31,749,126.0,238.0,8455.0,7.0,un_pub,13.0,11.0,1131.0,2023.0,monthly_salary,10,2023
+Heineken HCM_Bảng lương 01.2022 ,approved,2022-01-01,2022-01-31,1872,97.0,212.0,222.0,,manual,13.0,,,2022.0,monthly_salary,1,2022
+Heineken HCM_Bảng lương 03.2022,approved,2022-03-01,2022-03-31,1872,97.0,212.0,222.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+Test CFS,approved,2023-06-01,2023-06-30,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,6,2023
+Bảng lương tháng 03,approved,2022-03-01,2022-03-31,2262,97.0,223.0,9141.0,,manual,13.0,,,,monthly_salary,3,2022
+Bảng lương tháng 03/2022_GSK VSIP,approved,2022-03-01,2022-03-31,2245,97.0,224.0,9141.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_BANG LUONG RHI QUANG NGAI,approved,2022-02-26,2022-03-25,756,126.0,195.0,8455.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_BANG LUONG DKSH OFFICER,approved,2022-02-23,2022-03-22,2266,126.0,21.0,9558.0,,manual,13.0,,,,monthly_salary,3,2022
+HEINEKEN_PAYROLL T06.2022,approved,2022-06-01,2022-06-30,1872,97.0,212.0,222.0,,manual,13.0,,,2022.0,monthly_salary,6,2022
+COLGATE HCM. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,713,125.0,10.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+Colgate MP 9/2022,approved,2022-08-23,2022-09-22,771,97.0,220.0,215.0,,manual,13.0,11.0,,2022.0,final_payroll,9,2022
+PG DONG AN 08/2022,draft,2022-08-01,2022-08-31,751,97.0,273.0,197.0,7.0,manual,13.0,11.0,1142.0,2023.0,monthly_salary,8,2022
+MBS. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,1975,125.0,62.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+COLGATE HCM. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,713,125.0,10.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+03.2022_ BANG LUONG HAI LONG,approved,2022-02-23,2022-03-22,2235,126.0,25.0,9558.0,,manual,13.0,,,,monthly_salary,3,2022
+AKZO FLEMINGTON. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,753,125.0,32.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG DKSH VSIP,approved,2022-02-23,2022-03-22,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_BANG LUONG MAERSK SDS,approved,2022-02-26,2022-03-25,2198,126.0,12.0,530.0,,manual,13.0,,,,monthly_salary,3,2022
+Thăng Long 01.2022,approved,2022-01-01,2022-01-31,773,97.0,230.0,222.0,,manual,13.0,,,,monthly_salary,1,2022
+03.2022_BANG LUONG MAERSK DC6.4,approved,2022-03-01,2022-03-31,1999,126.0,16.0,8455.0,,manual,13.0,,,,monthly_salary,3,2022
+AKZO COATINGS. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,725,125.0,30.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+03.2022_BANG LUONG AKZO NOBEL DRIVER,approved,2022-03-01,2022-03-31,2134,125.0,28.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+AKZO NOBEL NORTH. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,735,125.0,38.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+AKZO NOBEL CS. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,701,125.0,34.0,275.0,,manual,14.0,,,,monthly_salary,3,2022
+FujiFilm. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,1963,125.0,235.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+PPG VN.Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,731,125.0,46.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+04.2022_BANG LUONG MAERSK DC1,approved,2022-03-21,2022-04-20,740,126.0,53.0,197.0,,manual,13.0,,,,monthly_salary,4,2022
+Schenker Logistics North. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,2286,103.0,266.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+ITOCHU POWER. Bang luong thang 05.2022,approved,2022-05-01,2022-05-31,734,125.0,48.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+Payroll_DKSH VSIP 052022,approved,2022-04-23,2022-05-22,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,5,2022
+Bảng lương HEINEKEN HCM T7/2022,pending,2022-07-01,2022-07-31,1872,97.0,212.0,222.0,3.0,manual,13.0,11.0,,,monthly_salary,7,2022
+MBS.Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,1975,125.0,62.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+VILUBE_BẢNG LƯƠNG 04 2022,approved,2022-03-26,2022-04-25,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,4,2022
+ITOCHU POWER. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,734,125.0,48.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+DKSH OFFICER_BẢNG LƯƠNG 04 2022,approved,2022-03-23,2022-04-22,2266,126.0,21.0,9558.0,,manual,13.0,,,,monthly_salary,4,2022
+DKSH VSIP_BẢNG LƯƠNG 04 2022,approved,2022-03-23,2022-04-22,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,4,2022
+AT TRASPORT_BANG LUONG 04 2022,approved,2022-03-23,2022-04-22,2220,126.0,24.0,9558.0,,manual,13.0,,,,monthly_salary,4,2022
+RHI HA TINH_BANG LUONG 04 2022,approved,2022-04-01,2022-04-30,2149,126.0,192.0,195.0,,manual,13.0,,,,monthly_salary,4,2022
+04.2022_BANG LUONG MAERSK DC4,approved,2022-03-21,2022-04-20,1972,126.0,56.0,9311.0,,manual,13.0,,,,monthly_salary,4,2022
+MAERSK DC6.4_BANG LUONG 04 2022,approved,2022-04-01,2022-04-30,1999,126.0,16.0,8455.0,,manual,13.0,,,,monthly_salary,4,2022
+04.2022_BANG LUONG MAERSK DC3,approved,2022-03-21,2022-04-20,1971,126.0,55.0,197.0,,manual,13.0,,,,monthly_salary,4,2022
+ARITCO. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,759,125.0,241.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+Bảng lương SAPHARCO 05/2023 ,approved,2023-05-01,2023-05-31,749,126.0,238.0,8455.0,7.0,auto,13.0,11.0,1131.0,2023.0,monthly_salary,5,2023
+AVERY DENNISON. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+BP OFFICE. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,682,125.0,242.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+BASF. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,675,125.0,58.0,195.0,,manual,14.0,,,2022.0,monthly_salary,2,2022
+08.2022 - FCV NA TL,approved,2022-08-01,2022-08-31,785,103.0,201.0,229.0,,manual,14.0,,,,monthly_salary,8,2022
+BSI. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,727,125.0,245.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+BRENNTAG. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,728,125.0,237.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+BP Castrol_Bảng lương 04.2022,approved,2022-04-01,2022-04-30,765,97.0,268.0,535.0,,manual,13.0,,,,monthly_salary,4,2022
+KING JIM. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,722,103.0,258.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+KONGSBERG. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,763,125.0,247.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+AKZO FLEMINGTON. bang luong thang 04.2022,approved,2022-03-26,2022-04-25,753,125.0,32.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+ACV Hưng Yên_Bảng lương 04.2022,approved,2022-04-01,2022-04-30,2154,97.0,215.0,535.0,,manual,13.0,,,,monthly_salary,4,2022
+NAM GIANG. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+PROMINENT. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,683,125.0,249.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+ROSNEFT. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,708,125.0,250.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+RHI HAI DUONG_BANG LUONG 04 2022,approved,2022-04-01,2022-04-30,755,126.0,193.0,8455.0,,manual,13.0,,,,monthly_salary,4,2022
+UIP_Lương T3 Hồ Thanh Vũ,approved,2022-03-01,2022-03-31,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+04.2022 - FCV ARAS,approved,2022-03-25,2022-04-24,814,103.0,203.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+04.2022 - CompAsia,approved,2022-03-26,2022-04-30,2263,103.0,202.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+SYNAGIE_PAYROLL T04.2022,approved,2022-04-01,2022-04-30,2273,97.0,234.0,222.0,,manual,13.0,,,,monthly_salary,4,2022
+HEINEKEN_PAYROLL T04.2022,approved,2022-04-01,2022-04-30,1872,97.0,212.0,222.0,,manual,13.0,,,2022.0,monthly_salary,4,2022
+AKZO COATINGS. bang luong thang 04.2022,approved,2022-03-26,2022-04-25,725,125.0,30.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+AKZO NOBEL HQ. bang luong thang 04.2022,approved,2022-04-01,2022-04-30,758,125.0,29.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+AMWAY 4/2022,approved,2022-03-21,2022-04-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,4,2022
+Bảng lương dự án SAPHARCO 4/2023,approved,2023-04-01,2023-04-30,749,126.0,238.0,8455.0,7.0,un_pub,13.0,11.0,1131.0,2023.0,monthly_salary,4,2023
+AKZO NOBEL NORTH. bang luong thang 04.2022,approved,2022-03-26,2022-04-25,735,125.0,38.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+Bảng lương MBS - Test H2H VCB,approved,2023-08-01,2023-08-31,1975,125.0,62.0,195.0,7.0,manual,14.0,11.0,1132.0,2023.0,monthly_salary,8,2023
+AKZO NOBEL CS. bang luong thang 04.2022,approved,2022-03-26,2022-05-25,701,125.0,34.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+SCHENKER NORTH. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,2241,125.0,253.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+AMWAY 1/2022,approved,2021-12-21,2022-01-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,1,2022
+BASF. bang luong thang 05.2022,approved,2022-05-01,2022-05-31,675,125.0,58.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+SCHENKER. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,1831,125.0,251.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+BASF 12.2022,pending,2023-01-01,2023-01-31,675,125.0,,195.0,1.0,manual,14.0,11.0,1141.0,2022.0,testing_payroll,1,2023
+Bảng lương FOXCONN 04.2022,approved,2022-04-01,2022-04-30,774,97.0,222.0,208.0,,manual,13.0,,,,monthly_salary,4,2022
+Bảng lương FOXCONN 06.2022,approved,2022-06-01,2022-06-30,774,97.0,222.0,208.0,,manual,13.0,,,,monthly_salary,6,2022
+Bảng lương SAPHARCO 08/2023 ,approved,2023-08-01,2023-08-31,749,126.0,238.0,8455.0,7.0,auto,13.0,11.0,1131.0,2023.0,monthly_salary,8,2023
+ITOCHU NHA MAY - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,680,125.0,47.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+ITOCHU NHA MAY. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,680,125.0,47.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+05.2022 - PROMINENT,approved,2022-05-01,2022-05-31,683,125.0,249.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - King Jim,approved,2022-04-26,2022-05-25,722,103.0,258.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+06.2022-ITOCHU NM-PAYROLL,approved,2022-06-01,2022-06-30,680,125.0,47.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+Bảng lương kiểm thử BROTHER 11/2022,approved,2022-12-01,2022-12-31,732,125.0,3.0,229.0,,manual,14.0,11.0,1064.0,2022.0,final_payroll,12,2022
+Bảng lương SAPHARCO 09/2023,draft,2023-09-01,2023-09-30,749,126.0,238.0,8455.0,,un_pub,13.0,11.0,1131.0,2023.0,monthly_salary,9,2023
+BV SUPPORTER - BL 03.2022,approved,2022-02-21,2022-03-20,687,126.0,61.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+06.2022 - TUV,approved,2022-06-01,2022-06-30,692,125.0,7.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+01.2022 - FCV NA,approved,2022-01-01,2022-01-31,781,103.0,200.0,229.0,,manual,14.0,,970.0,,monthly_salary,1,2022
+02.2022 - FCV CRM,approved,2022-02-01,2022-02-28,810,103.0,204.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+06.2022 - FCV CRM,approved,2022-06-01,2022-06-30,810,103.0,204.0,229.0,,manual,14.0,,,,monthly_salary,6,2022
+Shell_Bảng lương 06.2022,approved,2022-05-24,2022-06-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,6,2022
+SONION HCM. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,685,125.0,255.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+06.2022_BANG LUONG MAERSK DC4,approved,2022-05-21,2022-06-20,1972,126.0,56.0,9311.0,,manual,13.0,,,,monthly_salary,6,2022
+PAYROLL T04.2022_PG DONG AN_CT,approved,2022-04-01,2022-04-30,751,97.0,228.0,222.0,,manual,13.0,,,,monthly_salary,4,2022
+BV SUPPORTER - BANG LUONG 04.2022,approved,2022-03-21,2022-04-20,687,126.0,61.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+PAYROLL T04.2022_PG DONG AN_TV,approved,2022-04-01,2022-04-30,751,97.0,273.0,222.0,,manual,13.0,,,,monthly_salary,4,2022
+DKSH VN - BANG LUONG THANG 04.2022,approved,2022-03-23,2022-04-22,694,126.0,22.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+BASF lương tháng 9/2022,approved,2022-09-01,2022-09-30,675,125.0,58.0,195.0,1.0,manual,14.0,11.0,980.0,,monthly_salary,9,2022
+Bảng lương test công thức KUEHNE+NAGEL T2,draft,2022-12-26,2023-01-25,771,97.0,220.0,215.0,,manual,13.0,11.0,1133.0,2023.0,testing_payroll,1,2023
+Bảng lương FOXCONN 08.2022,approved,2022-08-01,2022-08-31,774,97.0,222.0,208.0,,manual,13.0,,,,monthly_salary,8,2022
+BASF 1.2023,draft,2023-01-01,2023-01-31,675,125.0,,195.0,1.0,manual,14.0,11.0,1141.0,2023.0,monthly_salary,1,2023
+BANG LUONG MAERSK CFS_01 2022,approved,2021-12-21,2022-01-20,739,126.0,52.0,197.0,,manual,13.0,,,2022.0,monthly_salary,1,2022
+BANG LUONG MAERSK CFS_02 2022,approved,2022-01-21,2022-02-20,739,126.0,52.0,197.0,,manual,13.0,,,2022.0,monthly_salary,2,2022
+SAPHARCO - BANG LUONG THANG 04.2022,approved,2022-04-01,2022-04-30,749,126.0,238.0,8455.0,,manual,13.0,,,,monthly_salary,4,2022
+Bảng lương GSK VSIP T7/2022,pending,2022-07-01,2022-07-31,2245,97.0,224.0,9141.0,3.0,manual,13.0,11.0,1128.0,,monthly_salary,7,2022
+Bảng lương PPG YUNGCHI T7/2022,approved,2022-07-01,2022-07-31,676,125.0,260.0,195.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương kiểm thử THEP NHA BE 11/2022,pending,2022-11-01,2022-11-30,675,125.0,58.0,195.0,1.0,manual,14.0,11.0,1141.0,2022.0,monthly_salary,11,2022
+HENKEL - BANG LUONG 04.2022,approved,2022-04-01,2022-04-30,699,126.0,4.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+Bảng lương kiểm thử ITOCHU.VP 1/2023,approved,2023-01-01,2023-01-31,681,125.0,49.0,195.0,7.0,manual,14.0,11.0,1118.0,2022.0,testing_payroll,1,2023
+Bảng lương FIRST SOLAR 04.2022,approved,2022-04-01,2022-04-30,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,4,2022
+TOPSOLVENT GO DAU - BANG LUONG 04.2022,approved,2022-03-21,2022-04-20,697,126.0,6.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+AMWAY 2/2022,approved,2022-01-21,2022-02-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,2,2022
+RHI QUANG NGAI.03.2023,pending,2023-03-01,2023-03-31,756,126.0,195.0,8455.0,3.0,manual,13.0,11.0,,2023.0,monthly_salary,3,2023
+BẢNG LƯƠNG ELANCO 04.2022,approved,2022-04-01,2022-04-30,2171,97.0,221.0,185.0,,manual,13.0,,,,monthly_salary,4,2022
+05.2022_BANG LUONG MAERSK CFS,approved,2022-04-21,2022-05-20,739,126.0,52.0,197.0,,manual,13.0,,,2022.0,monthly_salary,5,2022
+07/2022-Payroll-Maersk CFS,approved,2022-06-21,2022-07-20,739,126.0,52.0,197.0,,manual,13.0,,,2022.0,monthly_salary,7,2022
+DC2_AMAZON,pending,2023-03-01,2023-03-31,777,97.0,219.0,197.0,7.0,manual,13.0,11.0,1107.0,2023.0,monthly_salary,3,2023
+GSK CÁT LÁI_BẢNG LƯƠNG THÁNG 04 2022,approved,2022-04-01,2022-04-30,2262,97.0,223.0,9141.0,,manual,13.0,,,,monthly_salary,4,2022
+SAPHARCO 07/2023,approved,2023-07-01,2023-07-31,749,126.0,238.0,8455.0,7.0,manual,13.0,11.0,1131.0,2023.0,monthly_salary,7,2023
+BẢNG LƯƠNG UIP (TSX) 04.2022,approved,2022-04-01,2022-04-30,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,4,2022
+Shell_Bảng lương 05.2022,approved,2022-04-24,2022-05-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,5,2022
+Minh dev test 2,approved,2022-09-01,2022-09-30,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,,2023.0,testing_payroll,9,2022
+BSI. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,727,125.0,245.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+ACFC 04/2023,approved,2023-04-01,2023-04-30,770,97.0,216.0,208.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,4,2023
+BẢNG LƯƠNG ACFC 07.2022,approved,2022-07-01,2022-07-31,770,97.0,216.0,208.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - CompAsia,approved,2022-07-01,2022-07-31,2263,103.0,202.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương kiểm thử ACFC BINH DUONG,approved,2022-11-01,2022-11-30,770,97.0,216.0,208.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,11,2022
+Unilever_Bảng lương 03.2022 (1.4),approved,2022-03-01,2022-03-31,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+AMWAY 3/2022,approved,2022-02-21,2022-03-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,3,2022
+SYNAGIE_PAYROLL T05.2022,approved,2022-05-01,2022-05-31,2273,97.0,234.0,222.0,,manual,13.0,,,,monthly_salary,5,2022
+Bảng lương dự án BASF 05/2023,approved,2023-05-01,2023-05-31,675,125.0,58.0,195.0,7.0,manual,14.0,11.0,1141.0,2023.0,monthly_salary,5,2023
+MBS. Bang luong thang 05/2022,approved,2022-05-01,2022-05-31,1975,125.0,62.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+COLGATE HCM. Bang luong thang 05.2022,approved,2022-05-01,2022-05-31,713,125.0,10.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+VOLCAFE. Bang luong thang 05.2022,approved,2022-04-21,2022-05-20,760,125.0,45.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+PPG VN.Bang luong thang 05.2022,approved,2022-05-01,2022-05-31,731,125.0,46.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+PPG YUNGCHI-Bang luong thang 05.2022,approved,2022-05-01,2022-05-31,676,125.0,260.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+ITOCHU NHA MAY. Bang luong thang 05.2022,approved,2022-05-01,2022-05-31,680,125.0,47.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022_BANG LUONG MAERSK DC1.1,approved,2022-04-21,2022-05-20,2280,126.0,265.0,9311.0,,manual,13.0,,,,monthly_salary,5,2022
+Eisai - Bảng Lương Tháng 04 2022,approved,2022-04-01,2022-04-30,2300,97.0,274.0,9141.0,,manual,13.0,,,,monthly_salary,4,2022
+TOPSOLVENT HP - BANG LUONG 05.2022,approved,2022-04-21,2022-05-20,752,126.0,5.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+GSK VSIP_BẢNG LƯƠNG THÁNG 05 2022,approved,2022-05-01,2022-05-31,2245,97.0,224.0,9141.0,,manual,13.0,,,,monthly_salary,5,2022
+Colgate MP 10/2022,approved,2022-09-23,2022-10-22,771,97.0,220.0,215.0,,manual,13.0,11.0,,2022.0,final_payroll,10,2022
+Heineken 9.2022,draft,2022-09-01,2022-09-30,1872,97.0,212.0,222.0,,manual,13.0,11.0,1130.0,2022.0,monthly_salary,9,2022
+BV OUTSOURCING - BANG LUONG 05.2022,approved,2022-04-21,2022-05-20,686,126.0,59.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+BV SUBCONTRACT - BANG LUONG 05.2022,approved,2022-04-21,2022-05-20,688,126.0,60.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+03.2022_BANG LUONG MAERSK CFS,approved,2022-02-21,2022-03-20,739,126.0,52.0,197.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+04.2022_BANG LUONG MAERSK CFS,approved,2022-03-21,2022-04-20,739,126.0,52.0,197.0,,manual,13.0,,,2022.0,monthly_salary,4,2022
+06.2022_BANG LUONG MAERSK CFS,approved,2022-05-21,2022-06-20,739,126.0,52.0,197.0,,manual,13.0,,,2022.0,monthly_salary,6,2022
+AMWAY 5/2022,approved,2022-04-21,2022-05-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,5,2022
+Payroll_DKSH HAI LONG 052022,approved,2022-04-23,2022-05-22,2235,126.0,25.0,9558.0,,manual,13.0,,,,monthly_salary,5,2022
+07.2022-MBS-Payroll,approved,2022-07-01,2022-07-31,1975,125.0,62.0,195.0,,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương kiểm thử 1/2023 ACFC BINH DUONG,approved,2023-03-01,2023-03-31,770,97.0,216.0,208.0,3.0,manual,13.0,11.0,,2023.0,monthly_salary,3,2023
+Bảng lương kiểm thử VILUBE 11/2022,approved,2022-10-21,2022-11-20,711,126.0,8.0,245.0,,manual,13.0,11.0,1119.0,,final_payroll,11,2022
+Bảng lương kiểm thử FCV NA 07/2022,draft,2022-07-01,2022-07-31,781,103.0,200.0,229.0,,manual,14.0,11.0,,2022.0,testing_payroll,7,2022
+AMWAY 10/2022,approved,2022-09-21,2022-10-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,10,2022
+Bảng lương BASF tháng 11/2022,approved,2022-11-01,2022-11-30,675,125.0,58.0,195.0,1.0,manual,14.0,11.0,980.0,,monthly_salary,11,2022
+Bảng lương SAPHARCO 06/2023,draft,2023-06-01,2023-06-30,749,126.0,238.0,8455.0,7.0,un_pub,13.0,11.0,1131.0,2023.0,monthly_salary,6,2023
+Colgate MP 6/2022,approved,2022-05-23,2022-06-22,771,97.0,220.0,215.0,,manual,13.0,11.0,,2022.0,final_payroll,6,2022
+Colgate MP 6/2022 TEST1,draft,2022-05-23,2022-06-22,771,97.0,220.0,215.0,,manual,13.0,11.0,,2022.0,final_payroll,6,2022
+RHI QUANG NGAI_BANG LUONG 04 2022,approved,2022-03-25,2022-04-24,756,126.0,195.0,8455.0,,manual,13.0,,,,monthly_salary,4,2022
+BV SUPPORTER 7/2022,draft,2022-06-21,2022-07-20,687,126.0,61.0,243.0,1.0,manual,13.0,11.0,986.0,,monthly_salary,7,2022
+heineken 10.2022,approved,2022-10-01,2022-10-31,1872,97.0,212.0,222.0,,manual,13.0,11.0,1130.0,2022.0,final_payroll,10,2022
+ACV Hưng Yên_Bảng lương 02.2022,approved,2022-02-01,2022-02-28,2154,97.0,215.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+ACV Hưng Yên_Bảng lương 01.2022,approved,2022-01-01,2022-01-31,2154,97.0,215.0,535.0,,manual,13.0,,,,monthly_salary,1,2022
+Bảng lương tháng 12/2022 - BINH MINH,draft,2022-12-01,2022-12-31,777,97.0,,8455.0,3.0,manual,13.0,11.0,1107.0,,monthly_salary,12,2022
+Bảng lương COLGATE HCM T7/2022,draft,2022-07-01,2022-07-31,713,125.0,10.0,195.0,1.0,manual,14.0,11.0,,2023.0,monthly_salary,7,2022
+Bảng lương UAT ACB (TC2-2),approved,2023-09-01,2023-09-30,767,97.0,217.0,243.0,7.0,manual,13.0,11.0,1136.0,2023.0,monthly_salary,9,2023
+DC5,approved,2023-03-01,2023-03-31,2184,126.0,57.0,9311.0,,manual,13.0,11.0,,2023.0,final_payroll,3,2023
+AMWAY 11/2022,approved,2022-10-21,2022-11-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,11,2022
+Vilube 3/2023,pending,2023-02-21,2023-03-20,711,126.0,8.0,245.0,7.0,manual,13.0,11.0,1119.0,2023.0,monthly_salary,3,2023
+heineken 11.2022,approved,2023-11-01,2023-11-30,1872,97.0,212.0,222.0,,manual,13.0,11.0,1130.0,2022.0,final_payroll,11,2023
+AMWAY 6/2022,approved,2022-05-21,2022-06-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,6,2022
+ACFC 02/2023,approved,2023-02-01,2023-02-28,770,97.0,216.0,208.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,2,2023
+ACV HUNG YEN_BẢNG LƯƠNG 06.2022,approved,2022-06-01,2022-06-30,2154,97.0,215.0,535.0,,manual,13.0,,,,monthly_salary,6,2022
+Bảng lương SAPHARCO 06/2023 ,approved,2023-06-01,2023-06-30,749,126.0,238.0,8455.0,7.0,auto,13.0,11.0,1131.0,2023.0,monthly_salary,6,2023
+BẢNG LƯƠNG ACFC 06.2022,approved,2022-06-01,2022-06-30,770,97.0,216.0,208.0,,manual,13.0,,,,monthly_salary,6,2022
+AMWAY 12/2022,refused,2022-11-21,2022-12-20,788,103.0,208.0,275.0,,manual,14.0,11.0,,2022.0,final_payroll,12,2022
+Maersk CFS 10/2022,approved,2022-09-21,2022-10-20,739,126.0,52.0,197.0,,manual,13.0,11.0,,2022.0,final_payroll,10,2022
+Heineken 12.2022,approved,2022-12-01,2022-12-31,1872,97.0,212.0,222.0,,manual,13.0,11.0,1130.0,2022.0,final_payroll,12,2022
+Maersk CFS 11/2022,approved,2022-10-21,2022-11-20,739,126.0,52.0,197.0,,manual,13.0,11.0,,2022.0,final_payroll,11,2022
+Maersk CFS 12/2022,approved,2022-11-21,2022-12-20,739,126.0,52.0,197.0,,manual,13.0,11.0,,2022.0,final_payroll,12,2022
+Bảng lương COMPASIA T7/2022,draft,2022-07-01,2022-07-31,2263,103.0,202.0,275.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+TEST IMPORT,draft,2023-03-01,2023-03-31,2347,102.0,6.0,,,manual,14.0,11.0,,2023.0,monthly_salary,3,2023
+Test,approved,2022-12-01,2022-12-31,739,126.0,52.0,197.0,,manual,13.0,11.0,,2022.0,final_payroll,12,2022
+BẢNG LƯƠNG ITOCHU NHA MAY THÁNG 01.2022,approved,2022-01-01,2022-01-31,680,125.0,47.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+BẢNG LƯƠNG BROTHER THÁNG 01.2022,approved,2022-01-01,2022-01-31,732,125.0,3.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+BANG LUONG AKZO FLEMINGTON 01 2022,approved,2021-12-26,2022-01-25,753,125.0,32.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+PG DONG AN 08/2022,approved,2022-08-01,2022-08-31,751,97.0,228.0,197.0,7.0,after_approve,13.0,11.0,1142.0,2023.0,monthly_salary,8,2022
+BANG LUONG MAERSK DC6.4_01 2022,approved,2022-01-01,2022-01-31,1999,126.0,16.0,8455.0,,manual,13.0,,,,monthly_salary,1,2022
+Vilube 3/2023,approved,2023-02-21,2023-03-20,711,126.0,8.0,245.0,7.0,manual,13.0,11.0,1119.0,2023.0,monthly_salary,3,2023
+Colgate MP 12/2022,approved,2022-11-23,2022-12-22,771,97.0,220.0,215.0,,manual,13.0,11.0,,2022.0,final_payroll,12,2022
+BẢNG LƯƠNG ITOCHU VP THÁNG 01.2022 - CLIENT,approved,2022-01-01,2022-01-31,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+BẢNG LƯƠNG TOPSOLVENT HAI PHONG THÁNG 01.2022,approved,2021-12-21,2022-01-20,752,126.0,5.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+Vilube 4/2023,draft,2023-03-21,2023-04-20,711,126.0,8.0,245.0,3.0,manual,13.0,11.0,1119.0,2023.0,monthly_salary,4,2023
+DKSH VN - BANG LUONG 05.2022,approved,2022-04-23,2022-05-22,694,126.0,22.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+ACV Hưng Yên_Bảng lương 05.2022,approved,2022-05-01,2022-05-31,2154,97.0,215.0,535.0,,manual,13.0,,,,monthly_salary,5,2022
+DKSH HECA - BANG LUONG 05.2022,approved,2022-04-23,2022-05-22,696,126.0,23.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+TOPSOLVENT GD - BANG LUONG 05.2022,approved,2022-04-21,2022-05-20,697,126.0,6.0,243.0,,manual,13.0,,,,monthly_salary,5,2022
+GSK CÁT LÁI_BẢNG LƯƠNG THÁNG 05 2022,approved,2022-05-01,2022-05-31,2262,97.0,223.0,9141.0,,manual,13.0,,,,monthly_salary,5,2022
+Payroll_Thep Nha Be 052022,approved,2022-05-01,2022-05-31,1976,126.0,196.0,195.0,,manual,13.0,,,,monthly_salary,5,2022
+Payroll_DKSH AT 052022,approved,2022-04-23,2022-05-22,2220,126.0,24.0,9558.0,,manual,13.0,,,,monthly_salary,5,2022
+ACV Bắc Ninh_Bảng lương 05.2022,approved,2022-05-01,2022-05-31,2155,97.0,213.0,535.0,,manual,13.0,,,2022.0,monthly_salary,5,2022
+Payroll_Bo Sung_DKSH VSIP 052022,approved,2022-04-23,2022-05-22,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,5,2022
+Payroll RHI Hải Dương T5.2022,approved,2022-05-01,2022-05-31,755,126.0,193.0,8455.0,,manual,13.0,,,,monthly_salary,5,2022
+05.2022 - FCV ARAS,approved,2022-04-25,2022-05-24,814,103.0,203.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+Test,approved,2023-03-01,2023-03-31,2262,97.0,223.0,9141.0,,manual,13.0,11.0,,2023.0,final_payroll,3,2023
+05.2022 - CompAsia VN,approved,2022-05-01,2022-05-31,2263,103.0,202.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+BẢNG LƯƠNG ACFC 05.2022,approved,2022-05-01,2022-05-31,770,97.0,216.0,208.0,,manual,13.0,,,,monthly_salary,5,2022
+BẢNG LƯƠNG ACFC 04.2022,approved,2022-04-01,2022-04-30,770,97.0,216.0,208.0,,manual,13.0,,,,monthly_salary,4,2022
+BẢNG LƯƠNG UIP (NSX) 05.2022,approved,2022-05-01,2022-05-31,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,5,2022
+05.2022 - FCV NA ADMIN,approved,2022-05-01,2022-05-31,783,103.0,198.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - SHISEIDO,approved,2022-05-01,2022-05-31,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - AVERY DENNISION,approved,2022-05-01,2022-05-31,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+06.2022- MBS-Payroll ,approved,2022-06-01,2022-06-30,1975,125.0,62.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+05.2022 - BRENNTAG,approved,2022-05-01,2022-05-31,728,125.0,237.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - BP OFFICE,approved,2022-05-01,2022-05-31,682,125.0,242.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - BROTHER,approved,2022-05-01,2022-05-31,732,125.0,3.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - BSI,approved,2022-05-01,2022-05-31,727,125.0,245.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - FCV PG ACTIVATION,approved,2022-05-01,2022-05-31,2156,108.0,206.0,229.0,,manual,20.0,,,,monthly_salary,5,2022
+05.2022 - ARITCO,approved,2022-05-01,2022-05-31,759,125.0,241.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - KONGSBERG,approved,2022-05-01,2022-05-31,763,125.0,247.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - SONION DRIVER,approved,2022-05-01,2022-05-31,1966,125.0,254.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - SONION HCM,approved,2022-05-01,2022-05-31,685,125.0,255.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+BẢNG LƯƠNG MASAN 05.2022 - Bổ sung,approved,2022-06-01,2022-06-30,766,97.0,226.0,208.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - Payroll RHI HUNG YEN,approved,2022-06-01,2022-06-30,1962,126.0,194.0,195.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - Payroll RHI QUANG NGAI,approved,2022-06-01,2022-06-30,756,126.0,195.0,8455.0,,manual,13.0,,,,monthly_salary,6,2022
+PAYROLL PG ĐỒNG AN_TV_T05.22,approved,2022-05-01,2022-05-31,751,97.0,273.0,222.0,,manual,13.0,,,,monthly_salary,5,2022
+05.2022 - DRAKA,approved,2022-05-01,2022-05-31,691,125.0,246.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - SCHENKER,approved,2022-05-01,2022-05-30,1831,125.0,251.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+Payroll T01.2022,approved,2021-12-23,2022-01-22,771,97.0,220.0,215.0,,manual,13.0,,,2022.0,monthly_salary,1,2022
+Payroll T04.2022,approved,2022-03-23,2022-04-22,771,97.0,220.0,215.0,,manual,13.0,,,2022.0,monthly_salary,4,2022
+05.2022 - SCHENKER NORTH,approved,2022-05-01,2022-05-31,2241,125.0,253.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+06.2022_BANG LUONG MAERSK DC1,approved,2022-05-21,2022-06-20,740,126.0,53.0,197.0,,manual,13.0,,,,monthly_salary,6,2022
+06.2022 - SCHENKER NORTH,approved,2022-06-01,2022-06-30,2241,125.0,253.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+BP Production 8/2022,draft,2023-04-01,2023-04-30,765,97.0,268.0,535.0,,manual,13.0,11.0,,2022.0,monthly_salary,8,2023
+July 2022 Payroll,approved,2022-06-23,2022-07-22,771,97.0,220.0,215.0,,manual,13.0,,,2022.0,monthly_salary,7,2022
+Bảng lương kiểm thử COLGATE MY PHUOC 12/2022,approved,2022-10-23,2022-11-22,771,97.0,220.0,215.0,,manual,13.0,11.0,,2022.0,final_payroll,11,2022
+BAT DONG NAI 3/2023,draft,2023-04-01,2023-04-30,767,97.0,217.0,243.0,3.0,manual,13.0,11.0,,2023.0,monthly_salary,4,2023
+BAT DONG NAI 12/2022,approved,2022-12-01,2022-12-31,767,97.0,217.0,243.0,7.0,manual,13.0,11.0,1136.0,2023.0,monthly_salary,12,2022
+04.2022 - Amway Rep,approved,2022-04-01,2022-04-30,789,103.0,207.0,275.0,,manual,14.0,,,2022.0,monthly_salary,4,2022
+PG BEN CAT_PAYROLL T02.2022,approved,2022-01-01,2022-01-31,750,97.0,227.0,222.0,,manual,13.0,,,2022.0,monthly_salary,1,2022
+P&G BẾN CÁT_PAYROLL T03.2022_CT,approved,2022-03-01,2022-03-31,750,97.0,227.0,222.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+Vilube 3/2023,pending,2023-02-21,2023-03-20,711,126.0,8.0,245.0,7.0,manual,13.0,11.0,1119.0,2023.0,monthly_salary,3,2023
+P&G BẾN CÁT_PAYROLL T03.2022_TV.1,approved,2022-03-01,2022-03-31,750,97.0,272.0,222.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+P&G BẾN CÁT_PAYROLL T07.2022_CT,approved,2022-07-01,2022-07-31,750,97.0,227.0,222.0,,manual,13.0,,,2022.0,monthly_salary,7,2022
+P&G BẾN CÁT_PAYROLL T07.2022_TV,approved,2022-07-01,2022-07-31,750,97.0,272.0,222.0,,manual,13.0,,,2022.0,monthly_salary,7,2022
+Bảng lương SAPHARCO 01/2023 ,approved,2023-01-01,2023-01-31,749,126.0,238.0,8455.0,7.0,manual,13.0,11.0,1131.0,2023.0,monthly_salary,1,2023
+Bảng lương BASF tháng 11/2022,approved,2022-10-01,2022-10-31,675,125.0,58.0,195.0,1.0,manual,14.0,11.0,980.0,,monthly_salary,10,2022
+Bảng lương RHI QUANG NGAI 2 T9/2022,approved,2022-09-01,2022-09-30,2333,126.0,275.0,8455.0,1.0,manual,13.0,11.0,1103.0,,monthly_salary,9,2022
+Colgate MP 5/2022,approved,2022-04-23,2022-05-22,771,97.0,220.0,215.0,,manual,13.0,11.0,,2022.0,final_payroll,5,2022
+05.2022 - PAYROLL BÌNH MINH,approved,2022-05-01,2022-05-31,777,97.0,219.0,8455.0,,manual,13.0,,,,monthly_salary,5,2022
+Bảng lương tháng 01/2022_FOXCONN,approved,2022-01-01,2022-01-31,774,97.0,222.0,208.0,,manual,13.0,,,2022.0,monthly_salary,1,2022
+Bảng lương kiểm thử BINH MINH 12/2022,approved,2022-12-01,2022-12-31,777,97.0,219.0,8455.0,6.0,manual,13.0,11.0,1107.0,2022.0,testing_payroll,12,2022
+Colgate 2/2022,approved,2022-01-23,2022-02-22,771,97.0,220.0,215.0,,manual,13.0,11.0,,2022.0,final_payroll,2,2022
+Bảng lương tháng 02/2021,approved,2022-02-01,2022-02-28,774,97.0,222.0,208.0,,manual,13.0,,,2022.0,monthly_salary,2,2022
+MAERSK CFS,approved,2023-04-01,2023-04-30,739,126.0,52.0,9141.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,4,2023
+Bảng lương kiểm thử MAERSK CFS 12/2022,draft,2022-11-21,2022-12-20,740,126.0,52.0,197.0,,manual,13.0,11.0,1167.0,2022.0,monthly_salary,12,2022
+Bảng lương SAPHARCO 04/2023 ,draft,2023-02-01,2023-02-28,749,126.0,238.0,8455.0,7.0,un_pub,13.0,11.0,1131.0,2023.0,monthly_salary,2,2023
+Bảng lương dự án CFS,pending,2023-11-01,2023-11-30,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,1187.0,2023.0,monthly_salary,11,2023
+ACV Hưng Yên_Bảng lương 07.2022,approved,2022-07-01,2022-07-31,2154,97.0,215.0,535.0,,manual,13.0,,,,monthly_salary,7,2022
+AMWAY-5.2022,pending,2022-05-21,2022-06-20,788,103.0,208.0,275.0,1.0,manual,14.0,11.0,1144.0,2023.0,monthly_salary,6,2022
+SAPHARCO 08/2022,draft,2022-08-01,2022-08-31,749,126.0,238.0,8455.0,,manual,13.0,11.0,1131.0,2023.0,monthly_salary,8,2022
+CFS 12/2022,approved,2022-12-01,2022-12-31,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,12,2022
+02.2022 - PAYROLL BÌNH MINH,approved,2022-02-01,2022-02-28,777,97.0,219.0,8455.0,,manual,13.0,,,,monthly_salary,2,2022
+Test,pending,2022-12-01,2022-12-31,739,126.0,52.0,208.0,3.0,manual,13.0,11.0,,2023.0,monthly_salary,12,2022
+Bình Minh 02.2022,approved,2022-02-01,2022-02-28,777,97.0,219.0,8455.0,,manual,13.0,,,,monthly_salary,2,2022
+04.2022 - PAYROLL BÌNH MINH,approved,2022-04-01,2022-04-30,777,97.0,219.0,8455.0,,manual,13.0,,,,monthly_salary,4,2022
+Bảng lương kiểm thử BINH MINH 12/2022,approved,2022-12-01,2022-12-31,777,97.0,219.0,8455.0,6.0,manual,13.0,11.0,1107.0,2022.0,testing_payroll,12,2022
+MAERSK CFS,approved,2023-04-01,2023-04-30,739,126.0,52.0,9141.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,4,2023
+06.2022 - PAYROLL BÌNH MINH,approved,2022-06-01,2022-06-30,777,97.0,219.0,8455.0,,manual,13.0,,,,monthly_salary,6,2022
+CFS 04/2023,approved,2023-04-01,2023-04-30,739,126.0,52.0,9141.0,3.0,manual,13.0,11.0,,2023.0,monthly_salary,4,2023
+Bảng lương MBS - Test H2H VCB,approved,2023-08-01,2023-08-31,1975,125.0,62.0,195.0,7.0,manual,14.0,11.0,1132.0,2023.0,monthly_salary,8,2023
+Vilube 4/2023,approved,2023-03-21,2023-04-20,711,126.0,8.0,245.0,3.0,manual,13.0,11.0,1119.0,2023.0,monthly_salary,4,2023
+CFS TEST 12.2022,approved,2022-12-01,2022-12-31,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,12,2022
+Bảng lương SAPHARCO 11/2023,approved,2023-11-01,2023-11-30,2262,126.0,238.0,8455.0,7.0,un_pub,13.0,11.0,1131.0,2023.0,monthly_salary,11,2023
+BANG LUONG AT TRANSPORT_02 2022,approved,2022-01-23,2022-02-22,2220,126.0,24.0,9558.0,,manual,13.0,,,,monthly_salary,2,2022
+BANG LUONG HAI LONG_02 2022,approved,2022-01-23,2022-02-22,2235,126.0,25.0,9558.0,,manual,13.0,,,,monthly_salary,2,2022
+BANG LUONG AKZO COATINGS_02 2022,approved,2022-01-26,2022-02-25,725,125.0,30.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+Heineken HCM_Bảng lương 02.2022,approved,2022-02-01,2022-02-28,1872,97.0,212.0,222.0,,manual,13.0,,,2022.0,monthly_salary,2,2022
+ACV Bình Dương_Bảng lương 01.2022,approved,2022-01-01,2022-01-31,2153,97.0,214.0,535.0,,manual,13.0,,,2022.0,monthly_salary,1,2022
+ACV Bình Dương_Bảng lương 03.2022,approved,2022-03-01,2022-03-31,2153,97.0,214.0,535.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+ACV Bình Dương_Bảng lương 05.2022,approved,2022-05-01,2022-05-31,2153,97.0,214.0,535.0,,manual,13.0,,,2022.0,monthly_salary,5,2022
+Bảng lương FCV ARAS_SOC 04/2023,pending,2023-10-01,2023-10-31,814,103.0,203.0,229.0,7.0,manual,14.0,11.0,1143.0,2023.0,monthly_salary,10,2023
+Unilever_Bảng lương 06.2022,approved,2022-06-01,2022-06-30,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,6,2022
+ITOCHU VP - BẢNG LƯƠNG THÁNG 02.2022 - NCQ,approved,2022-02-01,2022-02-28,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+Bảng lương dự án SAPHARCO,approved,2023-08-01,2023-08-31,749,126.0,238.0,8455.0,7.0,manual,13.0,11.0,1131.0,2023.0,monthly_salary,8,2023
+RHI HA TINH. Bang luong thang 01.202,approved,2022-01-01,2022-01-31,2149,126.0,192.0,195.0,,manual,13.0,,,,monthly_salary,1,2022
+BANG LUONG AKZO CS_01 2022,approved,2021-12-26,2022-01-25,701,125.0,34.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+SAPHARCO. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,749,126.0,238.0,8455.0,,manual,13.0,,,,monthly_salary,1,2022
+BV SUPPORTER. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,687,126.0,61.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+PPG VN. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,731,125.0,46.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+06.2022 - FCV NA,approved,2022-06-01,2022-06-30,781,103.0,200.0,229.0,,manual,14.0,,970.0,,monthly_salary,6,2022
+MAERSK DC5 12.2022,approved,2022-11-21,2022-12-20,2184,126.0,57.0,9311.0,7.0,manual,13.0,11.0,1167.0,2023.0,monthly_salary,12,2022
+BANG LUONG MAERSK DC7.1_01 2022,approved,2022-01-01,2022-01-31,743,126.0,17.0,245.0,,manual,13.0,,,,monthly_salary,1,2022
+BV SUBCONTRACT - BANG LUONG THANG 03.2022,approved,2022-02-21,2022-03-20,688,126.0,60.0,243.0,,manual,13.0,,,,monthly_salary,3,2022
+MAERSK DC 5 9/2022,approved,2023-09-01,2022-09-30,2184,126.0,57.0,9311.0,7.0,manual,13.0,11.0,,2022.0,monthly_salary,9,2022
+RHI QUANG NGAI.02.2023,draft,2023-01-25,2023-02-24,756,126.0,195.0,8455.0,3.0,manual,13.0,11.0,1159.0,2023.0,monthly_salary,2,2023
+RHI QUANG NGAI.02.2023,approved,2023-01-25,2023-02-24,756,126.0,195.0,8455.0,3.0,manual,13.0,11.0,1159.0,2023.0,monthly_salary,2,2023
+Bảng lương THEP NHA BE,approved,2023-03-01,2023-03-31,1976,126.0,196.0,243.0,7.0,manual,13.0,11.0,1152.0,2023.0,monthly_salary,3,2023
+BANG LUONG AKZO FLEMINGTON_02 2022,approved,2022-01-26,2022-02-25,753,125.0,32.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+DKSH VN - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-23,2022-02-22,694,126.0,22.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+MANULIFE IT. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,2151,125.0,209.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+PG ĐỒNG AN_PAYROLL_T06.2022_TV,approved,2022-06-01,2022-06-30,751,97.0,273.0,222.0,,manual,13.0,,,,monthly_salary,6,2022
+BINH MINH_03/2023,approved,2023-03-01,2023-03-31,777,97.0,219.0,197.0,7.0,manual,13.0,11.0,1107.0,2023.0,monthly_salary,3,2023
+05.2022-UNILEVER-PAYROLL,approved,2022-05-01,2022-05-31,2159,125.0,197.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022_BANG LUONG MAERSK DC4,approved,2022-04-21,2022-05-20,1972,126.0,56.0,9311.0,,manual,13.0,,,,monthly_salary,5,2022
+BP OFFICE. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,682,125.0,242.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+AKZONOBEL HQ - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,758,125.0,29.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+07.2022 - Payroll RHI HA TINH,approved,2022-07-01,2022-07-31,2149,126.0,192.0,195.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - Payroll MAERSK DC6.4,approved,2022-07-01,2022-07-31,1999,126.0,16.0,8455.0,,manual,13.0,,,,monthly_salary,7,2022
+06.2022-COCA COLA-Payroll,approved,2022-06-01,2022-06-30,2326,108.0,276.0,195.0,,manual,20.0,,,,monthly_salary,6,2022
+TOPSOLVENT GO DAU - BANG LUONG THANG 07.2022,approved,2022-06-21,2022-07-20,697,126.0,6.0,243.0,,manual,13.0,,,,monthly_salary,7,2022
+Bảng lương 01/2022,approved,2022-01-01,2022-01-31,783,103.0,198.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+07.2022-MNL IT-Payroll,approved,2022-07-01,2022-07-31,2151,125.0,209.0,195.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022-ITOCHU POWER-Payroll,approved,2022-07-01,2022-07-31,734,125.0,48.0,195.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - SCHENKER NORTH,approved,2022-07-01,2022-07-31,2241,125.0,253.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+07.2022 - BP OFFICE,approved,2022-07-01,2022-07-31,682,125.0,242.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+SYNAGIE_PAYROLL T07.2022,approved,2022-07-01,2022-07-31,2273,97.0,234.0,222.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - Payroll RHI HUNG YEN,approved,2022-06-25,2022-07-24,1962,126.0,194.0,195.0,,manual,13.0,,,,monthly_salary,7,2022
+Bảng lương tháng 08/2022 - AT TRANSPORT,approved,2022-07-23,2022-08-22,2220,126.0,24.0,9558.0,,manual,13.0,,,,monthly_salary,8,2022
+08.2022 PAYROLL MAERSK DC2,approved,2022-07-21,2022-08-20,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,8,2022
+MAERSK SDS - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-26,2022-02-25,2198,126.0,12.0,530.0,,manual,13.0,,,,monthly_salary,2,2022
+08.2022 - AKZO NOBEL POWDER,approved,2022-07-26,2022-08-25,703,125.0,41.0,275.0,,manual,14.0,,,,monthly_salary,8,2022
+06.2022-UNILEVER-PAYROLL,approved,2022-06-01,2022-06-30,2159,125.0,197.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+07.2022-ITOCHU VP-Payroll,approved,2022-07-01,2022-07-31,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,7,2022
+GSK VSIP_Bảng lương tháng 07.2022,approved,2022-07-01,2022-07-31,2245,97.0,224.0,9141.0,,manual,13.0,,,,monthly_salary,7,2022
+BV SUPPORTER - BANG LUONG 08.2022,approved,2022-07-21,2022-08-20,687,126.0,61.0,243.0,,manual,13.0,,,,monthly_salary,8,2022
+Bảng lương dự án SAPHARCO,approved,2023-07-01,2023-07-31,749,126.0,238.0,8455.0,7.0,manual,13.0,11.0,1131.0,2023.0,monthly_salary,7,2023
+06.2022 - Payroll - VILUBE,approved,2022-06-01,2022-06-30,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,6,2022
+BP Production_Bảng lương 02.2022,approved,2022-02-01,2022-02-28,765,97.0,268.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+PAYROLL T04.2022_PG BEN CAT_CT,approved,2022-04-01,2022-04-30,750,97.0,227.0,222.0,,manual,13.0,,,2022.0,monthly_salary,4,2022
+PG BEN CAT CT_05/2022,draft,2023-02-01,2023-02-28,750,97.0,227.0,222.0,6.0,manual,13.0,11.0,1043.0,2023.0,monthly_salary,2,2023
+BANG LUONG AKZO COATINGS_01 2022,approved,2021-12-21,2022-01-20,725,125.0,30.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+UIP NSX_Bảng lương 02.2022,approved,2022-02-01,2022-02-28,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,2,2022
+SONION HCM. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,685,125.0,255.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+05.2022 - AKZO NOBEL CS,approved,2022-04-26,2022-05-25,701,125.0,34.0,275.0,,manual,14.0,,,,monthly_salary,5,2022
+07.2022 - Payroll VILUBE,approved,2022-06-26,2022-07-25,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,7,2022
+06.2022 PAYROLL VILUBE,approved,2022-05-26,2022-06-25,711,126.0,8.0,245.0,,manual,13.0,,,,monthly_salary,6,2022
+Unilever_Bảng lương 05.2022,approved,2022-05-01,2022-05-31,780,97.0,231.0,535.0,,manual,13.0,,,,monthly_salary,5,2022
+BẢNG LƯƠNG ELANCO 05.2022,approved,2022-05-01,2022-05-31,2171,97.0,221.0,185.0,,manual,13.0,,,,monthly_salary,5,2022
+P&G ĐỒNG AN_PAYROLL T05.2022_CT,approved,2022-05-01,2022-05-31,751,97.0,228.0,222.0,,manual,13.0,,,,monthly_salary,5,2022
+Thăng Long 02.2022,approved,2022-02-01,2022-02-28,773,97.0,230.0,222.0,,manual,13.0,,,,monthly_salary,2,2022
+P&G ĐỒNG AN_PAYROLL T07.2022_TV,approved,2022-07-01,2022-07-31,751,97.0,273.0,222.0,,manual,13.0,,,,monthly_salary,7,2022
+Bảng lương UNILEVER_EO T7/2022,draft,2022-07-01,2022-07-31,2159,125.0,197.0,195.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương kiểm thử VILUBE 8/2022,draft,2022-07-21,2022-08-20,711,126.0,8.0,245.0,,manual,13.0,11.0,1119.0,2022.0,testing_payroll,8,2022
+ACV Bắc Ninh_Bảng lương 03.2022,approved,2022-03-01,2022-03-31,2155,97.0,213.0,535.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+ACV Bắc Ninh_Bảng lương 02.2022 ,approved,2022-02-01,2022-02-28,2155,97.0,213.0,535.0,,manual,13.0,,,2022.0,monthly_salary,2,2022
+ACFC Bình Dương 01.2022,approved,2022-01-01,2022-01-31,770,97.0,216.0,208.0,,manual,13.0,,,,monthly_salary,1,2022
+ACV Bắc Ninh_Bảng lương 01.2022,approved,2022-01-01,2022-01-31,2155,97.0,213.0,535.0,,manual,13.0,,,2022.0,monthly_salary,1,2022
+HENKEL - BANG LUONG 07.2022,approved,2022-07-01,2022-07-31,699,126.0,4.0,243.0,,manual,13.0,,,,monthly_salary,7,2022
+Bảng lương COLGATE HCM T10/2022,approved,2022-10-01,2022-10-31,713,125.0,10.0,195.0,3.0,manual,14.0,11.0,1011.0,,monthly_salary,10,2022
+BANG LUONG COLGATE HCM_01 2022,approved,2022-01-01,2022-01-31,713,125.0,10.0,195.0,,manual,14.0,,1011.0,,monthly_salary,1,2022
+Akzo Nobel CS,approved,2023-01-26,2023-02-25,701,125.0,34.0,275.0,5.0,manual,14.0,11.0,1137.0,2023.0,monthly_salary,2,2023
+DKSH HECA 01.2023,pending,2023-01-01,2023-01-31,696,126.0,23.0,243.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,1,2023
+BAT DONG NAI 9.2022,approved,2022-09-01,2022-09-30,767,97.0,217.0,243.0,3.0,manual,13.0,11.0,1136.0,2022.0,monthly_salary,9,2022
+ACV Bắc Ninh_Bảng lương 04.2022,approved,2022-04-01,2022-04-30,2155,97.0,213.0,535.0,,manual,13.0,,,2022.0,monthly_salary,4,2022
+Bảng lương kiểm thử BASF 8/2022,approved,2022-08-01,2022-08-31,675,125.0,58.0,195.0,6.0,manual,14.0,11.0,1141.0,,testing_payroll,8,2022
+Bảng lương BASF T7/2022,pending,2022-07-01,2022-07-31,675,125.0,58.0,195.0,3.0,manual,14.0,,980.0,,monthly_salary,7,2022
+DKSH HECA - BANG LUONG THANG 06.2022,approved,2022-05-23,2022-06-22,696,126.0,23.0,243.0,,manual,13.0,,,,monthly_salary,6,2022
+DKSH HECA - BANG LUONG 07.2022,approved,2022-06-23,2022-07-22,696,126.0,23.0,243.0,,manual,13.0,,,,monthly_salary,7,2022
+DKSH HECA - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-23,2022-02-22,696,126.0,23.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+BẢNG LƯƠNG ELANCO 01.2022,approved,2022-01-01,2022-01-31,2171,97.0,221.0,185.0,,manual,13.0,,,,monthly_salary,1,2022
+THANG LONG_PAYROLL T05.2022,approved,2022-05-01,2022-05-31,773,97.0,230.0,222.0,,manual,13.0,,,,monthly_salary,5,2022
+BASF. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,675,125.0,58.0,195.0,1.0,manual,14.0,11.0,,2022.0,monthly_salary,1,2022
+PG BEN CAT TV_05/2022,draft,2023-02-01,2023-02-28,750,97.0,272.0,222.0,6.0,manual,13.0,11.0,1043.0,2023.0,monthly_salary,2,2023
+P&G DONG AN_PAYROLL T01.2022,approved,2022-01-01,2022-01-31,751,97.0,228.0,222.0,,manual,13.0,,,,monthly_salary,1,2022
+P&G DONG AN_PAYROLL T02.2022,approved,2022-02-01,2022-02-28,751,97.0,228.0,222.0,,manual,13.0,,,,monthly_salary,2,2022
+Bảng lương RHI QUANG NGAI T3/2022,draft,2022-02-25,2022-03-26,756,126.0,195.0,8455.0,1.0,manual,13.0,11.0,,,monthly_salary,3,2022
+test,draft,2023-04-01,2023-04-30,750,97.0,227.0,222.0,,manual,13.0,11.0,1043.0,2023.0,monthly_salary,4,2023
+06.2022 - AMWAY - REP,approved,2022-06-01,2022-06-30,789,103.0,207.0,275.0,,manual,14.0,,,2022.0,monthly_salary,6,2022
+RHI QN 4/2023,draft,2023-04-01,2023-04-30,756,126.0,195.0,8455.0,7.0,manual,13.0,11.0,1103.0,2023.0,monthly_salary,4,2023
+BẢNG LƯƠNG PPG VN THÁNG 01.2022,approved,2022-01-01,2022-01-31,731,125.0,46.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+ACV BÌNH DƯƠNG_BẢNG LƯƠNG 06.2022,approved,2022-06-01,2022-06-30,2153,97.0,214.0,535.0,,manual,13.0,,,2022.0,monthly_salary,6,2022
+08.2022 PAYROLL MAERSK CFS,approved,2022-07-21,2022-08-20,739,126.0,52.0,197.0,,manual,13.0,,,2022.0,monthly_salary,8,2022
+ACV Bình Dương_Bảng lương 02.2022,approved,2022-02-01,2022-02-28,2153,97.0,214.0,535.0,,manual,13.0,,,2022.0,monthly_salary,2,2022
+RHI HAI DUONG. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,755,126.0,193.0,8455.0,,manual,13.0,,,,monthly_salary,1,2022
+ROSNEFT. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,708,125.0,250.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+SCHENKER. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,1831,125.0,251.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+SONION DRIVER. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,1966,125.0,254.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+BV SUPPORTER. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,687,126.0,61.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+Bảng lương tháng 01/2022,approved,2022-01-01,2022-01-31,785,103.0,201.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+SCHENKER NORTH. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,2241,125.0,253.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+BANG LUONG AKZO NORTH_01 2022,approved,2022-01-01,2022-01-31,735,125.0,38.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+BANG LUONG AKZO POWDER_01 2022,approved,2021-12-26,2022-01-25,703,125.0,41.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+RHI QUANG NGAI. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,756,126.0,195.0,8455.0,,manual,13.0,,,,monthly_salary,2,2022
+BANG LUONG MAERSK 6.1_01 2022,approved,2022-01-01,2022-01-31,742,126.0,14.0,245.0,,manual,13.0,,,,monthly_salary,1,2022
+BRENNTAG. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,728,125.0,237.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+BV SUBCONTRACT. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,688,126.0,60.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+02.2022-UNILEVER-Payroll,approved,2022-02-01,2022-02-28,2159,125.0,197.0,195.0,,manual,14.0,,,,monthly_salary,2,2022
+AVERY DENNISON. Bang luong thang 02.2022,approved,2022-01-01,2022-02-28,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+AVERY DENNISON. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+PROMINENT. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,683,125.0,249.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+NAM GIANG. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+BP OFFICE. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,682,125.0,242.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+BV OUTSOURCING. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,686,126.0,59.0,243.0,,manual,13.0,,,,monthly_salary,2,2022
+BV SUBCONTRACT. Bang luong 01.2022,approved,2022-01-01,2022-01-31,688,126.0,60.0,243.0,,manual,13.0,,,,monthly_salary,1,2022
+RHI HUNG YEN. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,1962,126.0,194.0,195.0,,manual,13.0,,,,monthly_salary,1,2022
+RHI QUANG NGAI. Bang luong thang 01.2022 ,approved,2022-01-01,2022-01-31,756,126.0,195.0,8455.0,,manual,13.0,,,,monthly_salary,1,2022
+06.2022 - YAMAHA,approved,2022-06-01,2022-06-30,2202,108.0,264.0,229.0,,manual,20.0,,,,monthly_salary,6,2022
+BẢNG LƯƠNG UIP (TSX) 06.2022,approved,2022-06-01,2022-06-30,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,6,2022
+07.2022 - Fuji Film,approved,2022-07-01,2022-07-31,1963,125.0,235.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+BP Castrol_Bảng lương 07.2022,approved,2022-07-01,2022-07-31,765,97.0,268.0,535.0,,manual,13.0,,,,monthly_salary,7,2022
+BẢNG LƯƠNG ELANCO 07.2022,approved,2022-07-01,2022-07-31,2171,97.0,221.0,185.0,,manual,13.0,,,,monthly_salary,7,2022
+07.2022 - TUV,approved,2022-07-01,2022-07-31,692,125.0,7.0,229.0,,manual,14.0,,,,monthly_salary,7,2022
+TOPSOLVENT HAI PHONG - BANG LUONG 08.2022,approved,2022-07-21,2022-08-20,752,126.0,5.0,243.0,,manual,13.0,,,,monthly_salary,8,2022
+07.2022 - AKZO POWDER,approved,2022-06-26,2022-07-25,703,125.0,41.0,275.0,,manual,14.0,,,,monthly_salary,7,2022
+Shell_Bảng lương 08.2022,approved,2022-07-24,2022-08-23,764,97.0,229.0,535.0,,manual,13.0,,,,monthly_salary,8,2022
+ARITCO. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,759,125.0,241.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+06.2022 - SONION HCM,approved,2022-06-01,2022-06-30,685,125.0,255.0,275.0,,manual,14.0,,,,monthly_salary,6,2022
+ROSNEFT. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,708,125.0,250.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+BSI. Bang luong 01.2022,approved,2022-01-01,2022-01-31,727,125.0,245.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+BROTHER - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-02-01,2022-02-28,732,125.0,3.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+01.2022 - CompAsia,approved,2022-01-01,2022-01-31,2263,103.0,202.0,275.0,,manual,14.0,,,,monthly_salary,1,2022
+BANG LUONG HANWHA_01 2022,approved,2022-01-01,2022-01-31,693,125.0,9.0,229.0,,manual,14.0,,,,monthly_salary,1,2022
+BANG LUONG DKSH VSIP_01 2022,approved,2021-12-23,2022-01-22,695,126.0,20.0,9558.0,,manual,13.0,,,,monthly_salary,1,2022
+Bảng lương tháng 01/2022 MAERSK SOLAR,approved,2022-01-01,2022-01-31,2248,126.0,19.0,530.0,,manual,13.0,,,,monthly_salary,1,2022
+MAERSK SOLAR - BẢNG LƯƠNG THÁNG 02.2022,approved,2022-01-22,2022-02-21,2248,126.0,19.0,530.0,,manual,13.0,,,,monthly_salary,2,2022
+DRAKA. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,691,125.0,246.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+SHISEIDO. Bang luong thang 02.2022,approved,2022-02-01,2022-02-28,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,2,2022
+UIP TSX_Bảng lương 03.2022,approved,2022-03-01,2022-03-31,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+UIP NSX_Bảng lương 03.2022,approved,2022-03-01,2022-03-31,769,97.0,267.0,535.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG MAERSK DC1.1,approved,2022-02-21,2022-03-20,2280,126.0,265.0,9311.0,,manual,13.0,,,,monthly_salary,3,2022
+03.2022_ BANG LUONG MAERSK DC2,approved,2022-02-21,2022-03-20,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,3,2022
+AVERY DENNISON. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,712,125.0,244.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+BẢNG LƯƠNG VOLCAFE THÁNG 01.2022,approved,2021-12-21,2022-01-20,760,125.0,45.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+ITOCHU VAN PHONG. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+Bảng Lương Tháng 01/2022_GSK VSIP,approved,2022-01-01,2022-01-31,2245,97.0,224.0,9141.0,,manual,13.0,,,,monthly_salary,1,2022
+ MANULIFE IT. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,2151,125.0,209.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+BROTHER - BL THANG 03.2022,approved,2022-03-01,2022-03-31,732,125.0,3.0,229.0,,manual,14.0,,,,monthly_salary,3,2022
+PPG YUNGCHI-Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,676,125.0,260.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+04.2022_BANG LUONG MAERSK DC1.1,approved,2022-03-21,2022-04-20,2280,126.0,265.0,9311.0,,manual,13.0,,,,monthly_salary,4,2022
+04.2022_BANG LUONG MAERSK DC2,approved,2022-03-21,2022-04-20,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,4,2022
+VOLCAFE. Bang luong thang 04.2022,approved,2022-03-21,2022-04-20,760,125.0,45.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+ITOCHU VAN PHONG. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+HAILONG_BANG LUONG 04 2022,approved,2022-03-23,2022-04-22,2235,126.0,25.0,9558.0,,manual,13.0,,,,monthly_salary,4,2022
+MBS. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,1975,125.0,62.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+ITOCHU NHA MAY. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,680,125.0,47.0,195.0,,manual,14.0,,,,monthly_salary,4,2022
+RHI HUNG YEN_BANG LUONG 04 2022,approved,2022-03-25,2022-04-24,1962,126.0,194.0,195.0,,manual,13.0,,,,monthly_salary,4,2022
+FujiFilm CTV. bang luong thang 04.2022,approved,2022-03-16,2022-04-15,736,125.0,236.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+TOPSOLVENT HAI PHONG - BANG LUONG THANG 04.2022,approved,2022-03-21,2022-04-20,752,126.0,5.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+THĂNG LONG_PAYROLL T07.2022,approved,2022-07-01,2022-07-31,773,97.0,230.0,222.0,,manual,13.0,,,,monthly_salary,7,2022
+THEP NHA BE_PAYROLL 04 2022,approved,2022-04-01,2022-04-30,1976,126.0,196.0,195.0,,manual,13.0,,,,monthly_salary,4,2022
+AKZO NOBEL DRIVER. bang luong thang 04.2022,approved,2022-04-01,2022-04-30,2134,125.0,28.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+AKZO POWDER. bang luong thang 04.2022,approved,2022-03-26,2022-04-25,703,125.0,41.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+TUV RHEINLAND. bang luong thang 04.2022,approved,2022-04-01,2022-04-30,692,125.0,7.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+SHISEIDO. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,761,125.0,257.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+SONION DRIVER. Bang luong thang 04.2022,approved,2022-04-01,2022-04-30,1966,125.0,254.0,275.0,,manual,14.0,,,,monthly_salary,4,2022
+Bảng lương ITOCHU NM T7/2022,pending,2022-07-01,2022-07-31,680,125.0,47.0,195.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương MBS T07,pending,2022-07-01,2022-07-31,1975,125.0,62.0,195.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương RHI QUANG NGAI 2 T6/2022,draft,2022-06-01,2022-06-30,2333,126.0,275.0,8455.0,1.0,manual,13.0,,,,monthly_salary,6,2022
+BAT DONG NAI 12/2022,approved,2022-12-01,2022-12-31,767,97.0,217.0,243.0,,manual,13.0,11.0,1136.0,2022.0,final_payroll,12,2022
+GSK VSIP tháng 9/2022,approved,2022-09-01,2022-09-30,2245,97.0,224.0,9141.0,,manual,13.0,11.0,1128.0,,final_payroll,9,2022
+MBS Tháng 08/2022,draft,2022-08-01,2022-08-31,1975,125.0,62.0,195.0,1.0,manual,14.0,,934.0,,monthly_salary,8,2022
+MANULIFE IT. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,2151,125.0,209.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+08.2022 - Payroll ZUELLIG PHARMA,approved,2022-08-01,2022-08-31,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,8,2022
+Basf Lương tháng 6.2022,approved,2022-06-01,2022-06-30,675,125.0,58.0,195.0,,manual,14.0,11.0,980.0,,monthly_salary,6,2022
+BV SUBCONTRACT - BANG LUONG 04.2022,approved,2022-03-21,2022-04-20,688,126.0,60.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+02.2022 - FCV ARAS,approved,2022-01-25,2022-02-24,814,103.0,203.0,275.0,,manual,14.0,,,,monthly_salary,2,2022
+BROTHER. bang luong thang 04.2022,approved,2022-04-01,2022-04-30,732,125.0,3.0,229.0,,manual,14.0,,,,monthly_salary,4,2022
+BV OUTSOURCING - BANG LUONG 04.2022,approved,2022-03-21,2022-04-20,686,126.0,59.0,243.0,,manual,13.0,,,,monthly_salary,4,2022
+GSK VSIP_BẢNG LƯƠNG THÁNG 04 2022,approved,2022-04-01,2022-04-30,2245,97.0,224.0,9141.0,,manual,13.0,,,,monthly_salary,4,2022
+ITOCHU VAN PHONG. Bang luong thang 05.2022,approved,2022-05-01,2022-05-31,681,125.0,49.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+Payroll tháng 5/2022 - RHI Hà Tĩnh,approved,2022-05-01,2022-05-31,2149,126.0,192.0,195.0,,manual,13.0,,,,monthly_salary,5,2022
+Payroll tháng 5/2022 - RHI Hưng Yên,approved,2022-04-25,2022-05-24,1962,126.0,194.0,195.0,,manual,13.0,,,,monthly_salary,5,2022
+MANULIFE IT. Bang luong thang 05/2022,approved,2022-05-01,2022-05-31,2151,125.0,209.0,195.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022_BANG LUONG MAERSK DC2,approved,2022-04-21,2022-05-20,741,126.0,54.0,197.0,,manual,13.0,,,,monthly_salary,5,2022
+05.2022_BANG LUONG MAERSK DC3,approved,2022-04-21,2022-05-20,1971,126.0,55.0,197.0,,manual,13.0,,,,monthly_salary,5,2022
+Eisai - Bảng Lương Tháng 05 2022,approved,2022-05-01,2022-05-31,2300,97.0,274.0,9141.0,,manual,13.0,,,,monthly_salary,5,2022
+Payroll_DKSH OFFICER 052022,approved,2022-06-01,2022-06-30,2266,126.0,21.0,9558.0,,manual,13.0,,,,monthly_salary,6,2022
+Bảng lương tháng 01/2022_PPG YUNGCHI,approved,2022-01-01,2022-01-31,676,125.0,260.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+05.2022_BANG LUONG MAERSK DC5,approved,2022-04-21,2022-05-20,2184,126.0,57.0,9311.0,,manual,13.0,,,,monthly_salary,5,2022
+05.2022 - YAMAHA,approved,2022-05-01,2022-05-31,2202,108.0,264.0,229.0,,manual,20.0,,,,monthly_salary,5,2022
+05.2022 - TUV,approved,2022-05-01,2022-05-31,692,125.0,7.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - FCV NA CLs,approved,2022-05-01,2022-05-31,784,103.0,199.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - NAM GIANG,approved,2022-05-01,2022-05-31,1826,125.0,248.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+05.2022 - FCV CRM,approved,2022-05-01,2022-05-31,810,103.0,204.0,229.0,,manual,14.0,,,,monthly_salary,5,2022
+BẢNG LƯƠNG FIRST SOLAR 11.2021,approved,2021-11-01,2021-11-30,779,97.0,211.0,208.0,,manual,13.0,,,,monthly_salary,11,2021
+ZUELLIG_BANG LUONG THANG 04 2022,approved,2022-04-01,2022-04-30,672,126.0,240.0,238.0,,manual,13.0,,,,monthly_salary,4,2022
+Bảng lương SAPHARCO 10/2022,approved,2022-10-01,2022-10-31,749,126.0,238.0,8455.0,1.0,manual,13.0,11.0,1131.0,,monthly_salary,10,2022
+Bảng lương PPG VN T9/2022,approved,2022-09-01,2022-09-30,731,125.0,46.0,195.0,7.0,manual,14.0,11.0,1121.0,2022.0,monthly_salary,9,2022
+Bảng lương ACFC BINH DUONG T10/2022,approved,2022-10-01,2022-10-31,770,97.0,216.0,208.0,3.0,manual,13.0,11.0,1078.0,,monthly_salary,10,2022
+06.2022-PPG VN-PAYROLL,approved,2022-06-01,2022-06-30,731,125.0,46.0,195.0,,manual,14.0,,,,monthly_salary,6,2022
+MBS. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,1975,125.0,62.0,195.0,,manual,14.0,,,,monthly_salary,3,2022
+BAT DONG NAI - BANG LUONG 07.2022,approved,2022-07-01,2022-07-31,767,97.0,217.0,243.0,,manual,13.0,,,2022.0,monthly_salary,7,2022
+BV SUPPORTER - BANG LUONG 07.2022,approved,2022-06-21,2022-07-20,687,126.0,61.0,243.0,,manual,13.0,,986.0,,monthly_salary,7,2022
+BAT DONG NAI - BANG LUONG 06.2022,approved,2022-06-01,2022-06-30,767,97.0,217.0,243.0,,manual,13.0,,,2022.0,monthly_salary,6,2022
+BASF. Bang luong thang 03.2022,approved,2022-03-01,2022-03-31,675,125.0,58.0,195.0,,manual,14.0,,,2022.0,monthly_salary,3,2022
+ACFC Bình Dương 02.2022,approved,2022-02-01,2022-02-28,770,97.0,216.0,208.0,,manual,13.0,,,,monthly_salary,2,2022
+BAT DONG NAI - BANG LUONG 05.2022,approved,2022-05-01,2022-05-31,767,97.0,217.0,243.0,,manual,13.0,,,2022.0,monthly_salary,5,2022
+BAT DONG NAI - BANG LUONG 04.2022,approved,2022-04-01,2022-04-30,767,97.0,217.0,243.0,,manual,13.0,,,2022.0,monthly_salary,4,2022
+ACV Bình Dương_Bảng lương 07.2022,approved,2022-07-01,2022-07-31,2153,97.0,214.0,535.0,,manual,13.0,,,2022.0,monthly_salary,7,2022
+HEINEKEN_PAYROLL T05.2022,approved,2022-05-01,2022-05-31,1872,97.0,212.0,222.0,,manual,13.0,,,2022.0,monthly_salary,5,2022
+Bảng lương BRENNTAG T7/2022,draft,2022-07-01,2022-07-31,728,125.0,237.0,229.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương UNILEVER_PO T7/2022,approved,2022-07-01,2022-07-31,780,97.0,231.0,535.0,3.0,manual,13.0,11.0,,,monthly_salary,7,2022
+ITOCHU NHA MAY 8.2022,approved,2022-08-01,2022-08-31,680,125.0,47.0,195.0,3.0,manual,14.0,11.0,,,monthly_salary,8,2022
+Bảng lương kiểm thử MBS 11/2022,approved,2022-11-01,2022-11-30,1975,125.0,62.0,195.0,6.0,manual,14.0,11.0,1132.0,,testing_payroll,11,2022
+Bảng lương RHI QUANG NGAI T3/2022,pending,2022-02-25,2022-03-26,756,126.0,195.0,8455.0,1.0,manual,13.0,,,,monthly_salary,3,2022
+BAT DONG NAI 11.2022,approved,2022-11-01,2022-11-30,767,97.0,217.0,243.0,5.0,manual,13.0,11.0,1136.0,2022.0,monthly_salary,11,2022
+MBS 07/2023,approved,2023-07-01,2023-07-31,1975,125.0,62.0,195.0,7.0,manual,14.0,11.0,1132.0,2023.0,monthly_salary,7,2023
+BAT DONG NAI 12/2022,approved,2022-12-01,2022-12-31,767,97.0,217.0,243.0,5.0,manual,13.0,11.0,1136.0,2022.0,monthly_salary,12,2022
+Bảng lương MBS - Test H2H VCB,approved,2023-08-01,2023-08-31,1975,125.0,62.0,195.0,7.0,manual,14.0,11.0,1132.0,2023.0,monthly_salary,8,2023
+UNILEVER_EO. Bang luong thang 01.2022,approved,2022-01-01,2022-01-31,2159,125.0,197.0,195.0,,manual,14.0,,,,monthly_salary,1,2022
+01.2022 - FCV ACTIVATION,approved,2022-01-01,2022-01-31,2156,108.0,206.0,229.0,,manual,20.0,19.0,964.0,,monthly_salary,1,2022
+02.2022 - FCV ACTIVATION,approved,2022-02-01,2022-02-28,2156,108.0,206.0,229.0,,manual,20.0,19.0,964.0,,monthly_salary,2,2022
+GSK CAT LAI_Bảng Lương Tháng 01/2022,approved,2022-01-01,2022-01-31,2262,97.0,223.0,9141.0,,manual,13.0,,,,monthly_salary,1,2022
+BẢNG LƯƠNG BAT DONG NAI 01.2022,approved,2022-01-01,2022-01-31,767,97.0,217.0,243.0,,manual,13.0,,975.0,2022.0,monthly_salary,1,2022
+BẢNG LƯƠNG BAT DONG NAI 02.2022,approved,2022-02-01,2022-02-28,767,97.0,217.0,243.0,,manual,13.0,,,2022.0,monthly_salary,2,2022
+BẢNG LƯƠNG BAT DONG NAI 03.2022,approved,2022-03-01,2022-03-31,767,97.0,217.0,243.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+Bảng lương FOXCONN 03.2022,approved,2022-03-01,2022-03-31,774,97.0,222.0,208.0,,manual,13.0,,,2022.0,monthly_salary,3,2022
+ACV Bình Dương_Bảng lương 04.2022,approved,2022-04-01,2022-04-30,2153,97.0,214.0,535.0,,manual,13.0,,,2022.0,monthly_salary,4,2022
+Bảng lương tháng 08/2022 - Thép Nhà Bè,approved,2022-09-01,2022-09-30,1976,126.0,196.0,195.0,,manual,13.0,,,,monthly_salary,8,2022
+Bảng lương BSI T7/2022,pending,2022-07-01,2022-07-31,727,125.0,245.0,229.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương PPG VN T7/2022,approved,2022-07-01,2022-07-31,731,125.0,46.0,195.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương ITOCHU VP T7/2022,draft,2022-07-01,2022-07-31,681,125.0,49.0,195.0,1.0,manual,14.0,,,,monthly_salary,7,2022
+Bảng lương MBS T10/2022,approved,2022-10-01,2022-10-31,1975,125.0,62.0,195.0,1.0,manual,14.0,11.0,1132.0,,monthly_salary,10,2022
+Bảng lương tháng 8/2022 FCV NA,approved,2022-08-01,2022-08-31,781,103.0,200.0,229.0,5.0,manual,14.0,11.0,970.0,,monthly_salary,8,2022
+Bảng lương MBS T11/2022,approved,2022-11-01,2022-11-30,1975,125.0,62.0,195.0,1.0,manual,14.0,11.0,1132.0,,monthly_salary,11,2022
+Bảng lương kiểm thử MBS 11/2022,approved,2022-11-01,2022-11-30,1975,125.0,62.0,195.0,6.0,manual,14.0,11.0,1132.0,,monthly_salary,11,2022
+Itochu VP 9.2022,pending,2022-09-01,2022-09-30,681,125.0,49.0,195.0,1.0,manual,14.0,11.0,1118.0,,testing_payroll,9,2022
+itochu VP,draft,2022-11-01,2022-11-30,681,125.0,49.0,195.0,1.0,manual,14.0,11.0,1118.0,,testing_payroll,11,2022
+Bảng lương kiểm thử THEP NHA BE 11/2022,draft,2022-10-21,2022-11-20,1976,126.0,196.0,245.0,,manual,13.0,11.0,,,monthly_salary,11,2022
+PAYROLL THANG LONG 10.2022,approved,2022-10-01,2022-10-31,773,97.0,230.0,222.0,5.0,manual,13.0,11.0,,,monthly_salary,10,2022
+Bảng lương kiểm thử ITOCHU.VP 1/2023,pending,2023-01-01,2023-01-31,681,125.0,49.0,195.0,1.0,manual,14.0,11.0,1118.0,,testing_payroll,1,2023
+Payroll Thang Long 9.2022,draft,2022-09-01,2022-09-30,773,97.0,230.0,222.0,3.0,manual,13.0,11.0,,2022.0,monthly_salary,9,2022
+BAT DONG NAI 10.2022,approved,2022-10-01,2022-10-31,767,97.0,217.0,243.0,7.0,manual,13.0,11.0,1136.0,2022.0,monthly_salary,10,2022
+Bảng lương kiểm thử BASF 11/2022,pending,2022-08-01,2022-08-31,675,125.0,58.0,195.0,6.0,manual,14.0,11.0,1141.0,2022.0,testing_payroll,8,2022
+ACV BAC NINH,draft,2022-12-01,2022-12-31,2155,97.0,213.0,535.0,3.0,manual,13.0,11.0,1140.0,2023.0,monthly_salary,12,2022
+CFS TEST 12.2022,approved,2022-12-01,2022-12-31,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,,2022.0,monthly_salary,12,2022
+Bảng lương test PG BEN CAT-05/2023,draft,2023-05-01,2023-05-31,750,97.0,272.0,222.0,7.0,manual,13.0,11.0,1043.0,2023.0,monthly_salary,5,2023
+Bảng lương kiểm thử MBS 11/2022,draft,2022-11-01,2022-11-30,1975,125.0,62.0,195.0,6.0,manual,14.0,11.0,1132.0,2023.0,testing_payroll,11,2022
+MAERSK CFS 9/2022,approved,2022-08-21,2022-09-20,739,126.0,52.0,197.0,5.0,manual,13.0,11.0,,2022.0,monthly_salary,9,2022
+Bảng lương CFS 12.2022,pending,2022-12-01,2022-12-31,739,126.0,52.0,197.0,3.0,manual,13.0,11.0,,2022.0,monthly_salary,12,2022
+CFS 12/2023,approved,2022-12-01,2022-12-31,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,,2023.0,monthly_salary,12,2022
+Bảng lương kiểm thử MAERSK CFS 12/2022,approved,2023-12-01,2022-12-31,739,126.0,52.0,197.0,7.0,manual,13.0,11.0,,2022.0,monthly_salary,12,2022
+Bảng lương kiểm thử UNILEVER_EO,draft,2023-09-01,2023-09-30,780,97.0,231.0,195.0,,manual,13.0,11.0,1158.0,2023.0,monthly_salary,9,2023

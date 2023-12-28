@@ -1,0 +1,35 @@
+company_id,old_code,code,name,active,internal,joining_date,birthday,mobile,payslip_email,identification_id
+1,NVPRO,D00922,Phan Thị Thanh Duyen,true,false,2009-6-1,1983-5-21,,Anny.Thao@leschaco.com,024752484
+1,NVPRO,D00923,Trương Thị Thảo Ngân,true,false,2017-1-16,1992-10-13,0792744248,Truongngan92@gmail.com,025160757
+1,NVPRO,D00924,Trương Thị Tâm,true,false,2017-2-13,1990-2-12,,Stella.Truong@leschaco.com,049190000289
+1,NVPRO,D00946,Đậu Thị Huyền Trang,true,false,2023-10-2,1986-3-18,0967986789,trang.dau@leschaco.com,042186000120
+1,NVPRO,D00939,Nguyễn Thị Như Khánh,true,false,2023-6-26,1982-10-10,0908357082,nhukhanh82.nguyen@gmail.com,056182002054
+1,NVPRO,D00921,Nguyễn Đình Ngân,true,false,2009-6-1,1983-4-20,,ngannleschaco@gmail.com,023527668
+1,NVPRO,D00927,Trần Hồng Vân,true,false,2021-12-1,1991-5-19,0941545979,Vantran190591@gmail.com,281077206
+1,NVPRO,D00928,Nguyễn Thị Quỳnh Như,true,false,2022-3-1,1992-6-28,0987332286,quynhnhu28692@gmail.com,068192004027
+1,NVPRO,D00930,Nguyễn Thành Đạt,true,false,2022-5-4,1997-11-16,0342094947,thanhdatnguyen911@gmail.com,321597748
+1,NVPRO,D00940,Nguyễn Thị Minh Hạnh,true,false,2023-6-27,1977-8-9,0388707967,hanhnguyen.pal@gmail.com,067177000004
+1,NVPRO,D00926,Lê Thị Kim Phụng,true,false,2019-4-1,1989-3-7,0908929894,Lephung452@gmail.com,025222352
+1,NVPRO,D00929,Lương Thị Trúc Quỳnh,true,false,2022-3-1,1996-2-18,0937506641,trucquynh18296@gmail.com,079196014600
+1,NVPRO,D00920,Thomas Christian Fugleberg,true,false,2021-12-20,1989-9-11,,thomasc.fugleberg@gmail.com,
+1,NVPRO,D00935,Nguyễn Mạnh Thùy,true,false,2023-3-1,1982-11-1,0989084007,thuynma@gmail.com,036082005085
+1,NVPRO,D00945,Ái Việt Hoàng,true,false,2023-9-13,1996-10-8,0376676297,hoang.ai@leschaco.com,056096002706
+1,NVPRO,D00938,Lê Thị Thu Thủy,true,false,2023-6-12,1996-5-15,0981878127,lethuthuy1596@gmail.com,064196007575
+1,NVPRO,D00936,Nguyễn Thị Mỹ Hường,true,false,2023-3-27,1993-8-3,0919582189,myhuong3893@gmail.com,074193008569
+1,NVPRO,D00933,Nguyễn Minh Tâm,true,false,2023-2-1,1987-7-9,0915360754,nmtam7994@gmail.com,074094004825
+1,NVPRO,D00937,Trần Thị Thuỳ Dương,true,false,2023-6-1,1989-3-12,0962629692,thuyduong89.ftu@gmail.com,019189013571
+1,NVPRO,D00944,Nguyễn Lý Tú Ngân,true,false,2023-9-5,2001-3-16,0914639090,ngan.nguyen@leschaco.com,091301000251
+1,NVPRO,D00943,Trần Nguyễn Thanh Xuân,true,false,2023-8-1,1993-1-27,0947341331,xuan.tran@leschaco.com,079193010355
+1,NVPRO,D00941,Lê Thị Như Hoàng,true,false,2023-7-10,1997-12-25,0983654378,emily.le20212512@gmail.com,075197007380
+1,NVPRO,D00931,Vũ Thị Thanh Xuân,true,false,2022-9-5,1996-9-20,0365989958,vuttxuan209@gmail.com,272483177
+1,NVPRO,D00934,Bạch Thị Hà Trang,true,false,2022-8-1,2000-10-21,0354479119,bachhatrang2000@gmail.com,091941584
+1,NVPRO,D00951,Phạm Trần Hiền Vy,true,false,2023-11-22,2003-11-15,0797977352,vy.pham@leschaco.com,075303017681
+1,NVPRO,D00952,Nguyễn Ngọc Thảo Vy,true,false,2023-9-11,2001-11-14,0968313711,vy.nguyen@leschaco.com,089301003969
+1,NVPRO,D00947,Nguyễn Thị Minh Tâm,true,false,2023-10-3,1987-12-27,0902837838,tammy.nguyen@leschaco.com,074187003433
+1,NVPRO,D00932,Dương Nguyễn Hạnh Nguyên ,true,false,2022-10-3,1985-7-27,0369427133,hanhnguyen270785@gmail.com,079185009574
+1,NVPRO,D00949,Phạm Minh Đức,true,false,2023-11-20,1987-2-3,0989893867,duc.pham@leschaco.com,001087020531
+1,NVPRO,D00942,Nguyễn Xuân Phát,true,false,2023-7-27,1990-12-6,0902683747,phat.nguyen@leschaco.com,079090024433
+1,NVPRO,D00950,Đào Thị Thanh Hương,true,false,2023-11-20,1981-10-15,0903103839,huong.dao@leschaco.com,079181009099
+1,NVPRO,D00925,Triệu Thị Huyền Trang,true,false,2018-7-20,1989-1-15,0975253935,trangtrieuhuyen@gmail.com,060189000322
+1,NVPRO,D00948,Nguyễn Hữu Cảnh,true,false,2023-11-9,1980-4-24,0962242480,canh.nguyen@leschaco.com,037080000122
+
